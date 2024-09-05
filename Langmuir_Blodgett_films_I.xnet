@@ -1,0 +1,272 @@
+#vertices 35
+"Hole burning on porphyrin centers in langmuir-blodgett films"
+"Dynamical processes at low temperatures in Langmuir-Blodgett films observed with selectivity laser-excited dye molecules"
+"Stark effect in Langmuir—Blodgett films studied by hore-burning"
+"Photovoltaic Effects of Retinal-Related Materials in Langmuir-Blodgett Films"
+"Determination of molecular orientations in Langmuir-Blodgett films by polarized Fourier transform IR attenuated total reflection and transmission spectroscopy"
+"Concentration effects on spectra and persistent hole-burning of porphyrin-doped Langmuir—Blodgett films"
+"Biphasic photocurrent of a photocell containing retinal Langmuir-Blodgett film"
+"Spectroscopic Properties of Retinoid Molecules in Langmuir-Blodgett Films"
+"Dielectric anisotropy and photoinduced voltage in Langmuir–Blodgett films of retinal derivatives"
+"From Langmuir–Blodgett films to single molecules"
+"Third-order optical non-linearity of absorbing dye Langmuir-Blodgett films"
+"Absorption Properties of Langmuir-Blodgett Films of Retinoic Acid"
+"Three-dimensional degenerate multiwave mixing and optical storage effects in C60 Langmuir-Blodgett films"
+"Multiple forward phase conjugate waves by degenerate four-wave-mixing in Langmuir-Blodgett films with BOXCARS geometry"
+"Stark effect in hole-burning spectra of dye-doped Langmuir-Blodgett films"
+"Picosecond transient absorption spectroscopy on 132-hydroxy-bacteriopheophorbide-methylester (0H-BPME) molecules in solution and embedded in mixed Langmuir-Blodgett films"
+"Electro-optical spectroscopy on aggregated chromophore systems in Langmuir-Blodgett films"
+"Multiple forward phase conjugate waves by degenerate four-wave mixing in Langmuir-Blodgett films with BOXCARS geometry"
+"Role of central metal in phthalocyanine Langmuir-Blodgett films studied by hole burning"
+"Determination of Third-Order Optical Nonlinearity Dispersion of 1-Methyl-1<sup>′</sup>-Octadecyl-2,2<sup>′</sup>-Cyanine Perchlorate Langmuir-Blodgett Films Using Electroabsorption Spectroscopy"
+"High-resolution optical spectroscopy of Langmuir-Blodgett films"
+"Excited energy transfer in Langmuir-Blodgett films studied by hole burning spectroscopy"
+"Fluorescence hole-burning spectroscopy of phthalocyanine Langmuir-Blodgett films"
+"High Resolution Spectroscopy of Langmuir-Blodgett Films"
+"Luminescence line narrowing and persistent hole burning in organic materials: principles and new results"
+"Hole-Burning Spectroscopy of Dye-Doped Langmuir-Blodgett Films"
+"Polymer films of J-aggregated cyanine dyes and metal clusters for non-linear optical applications"
+"Concentration Effects on Spectra and Persistent Hole-Burning of Porphyrin Doped Langmuir-Blodgett Films"
+"Electric Field Effect on Hole-Burning Spectra of A Cyanine Dye in Langmuir-Blodgett Films"
+"Persistent Hole Burning Spectroscopy Applications On Phthalocyanine Langmuir-Blodgett Films"
+"Model for burning kinetics and shape of fluence-saturated spectral holes"
+"Stark spectroscopy of Langmuir-Blodgett monolayers and multilayers"
+"Dielectric characterization of colloidal solutions of retinoic acid embedded in microspheres of polyvinyl alcohol"
+"Doping effect upon the molecular order of thin films of conducting polymers"
+"Persistent Spectral Hole Burning of Selectively Laser-Excited, Adsorbed Dyes and Their Interactions with Surfaces"
+#edges nonweighted undirected
+0 1
+1 2
+0 2
+2 31
+5 24
+2 5
+1 5
+0 5
+6 7
+3 8
+8 33
+8 11
+0 9
+10 17
+3 11
+7 11
+10 12
+12 13
+14 24
+2 14
+1 14
+0 14
+10 15
+15 18
+4 15
+10 19
+19 26
+2 20
+20 30
+0 20
+0 21
+21 22
+18 22
+23 30
+0 23
+2 24
+0 24
+14 25
+16 25
+2 25
+20 25
+5 25
+1 25
+25 30
+0 25
+25 31
+2 27
+0 27
+2 28
+0 28
+0 29
+0 30
+8 32
+4 33
+1 34
+#v "ClusterIndex" n
+8.0
+8.0
+8.0
+8.0
+8.0
+8.0
+8.0
+8.0
+8.0
+8.0
+8.0
+8.0
+8.0
+8.0
+8.0
+8.0
+8.0
+8.0
+8.0
+8.0
+8.0
+8.0
+8.0
+8.0
+8.0
+8.0
+8.0
+8.0
+8.0
+8.0
+8.0
+8.0
+8.0
+8.0
+8.0
+#v "ClusterName" s
+"I - spectroscopy, langmuir-blodgett film, effect, hole-burning, persistent, hole burning, spectrum, dye, stark, degenerate"
+"I - spectroscopy, langmuir-blodgett film, effect, hole-burning, persistent, hole burning, spectrum, dye, stark, degenerate"
+"I - spectroscopy, langmuir-blodgett film, effect, hole-burning, persistent, hole burning, spectrum, dye, stark, degenerate"
+"I - spectroscopy, langmuir-blodgett film, effect, hole-burning, persistent, hole burning, spectrum, dye, stark, degenerate"
+"I - spectroscopy, langmuir-blodgett film, effect, hole-burning, persistent, hole burning, spectrum, dye, stark, degenerate"
+"I - spectroscopy, langmuir-blodgett film, effect, hole-burning, persistent, hole burning, spectrum, dye, stark, degenerate"
+"I - spectroscopy, langmuir-blodgett film, effect, hole-burning, persistent, hole burning, spectrum, dye, stark, degenerate"
+"I - spectroscopy, langmuir-blodgett film, effect, hole-burning, persistent, hole burning, spectrum, dye, stark, degenerate"
+"I - spectroscopy, langmuir-blodgett film, effect, hole-burning, persistent, hole burning, spectrum, dye, stark, degenerate"
+"I - spectroscopy, langmuir-blodgett film, effect, hole-burning, persistent, hole burning, spectrum, dye, stark, degenerate"
+"I - spectroscopy, langmuir-blodgett film, effect, hole-burning, persistent, hole burning, spectrum, dye, stark, degenerate"
+"I - spectroscopy, langmuir-blodgett film, effect, hole-burning, persistent, hole burning, spectrum, dye, stark, degenerate"
+"I - spectroscopy, langmuir-blodgett film, effect, hole-burning, persistent, hole burning, spectrum, dye, stark, degenerate"
+"I - spectroscopy, langmuir-blodgett film, effect, hole-burning, persistent, hole burning, spectrum, dye, stark, degenerate"
+"I - spectroscopy, langmuir-blodgett film, effect, hole-burning, persistent, hole burning, spectrum, dye, stark, degenerate"
+"I - spectroscopy, langmuir-blodgett film, effect, hole-burning, persistent, hole burning, spectrum, dye, stark, degenerate"
+"I - spectroscopy, langmuir-blodgett film, effect, hole-burning, persistent, hole burning, spectrum, dye, stark, degenerate"
+"I - spectroscopy, langmuir-blodgett film, effect, hole-burning, persistent, hole burning, spectrum, dye, stark, degenerate"
+"I - spectroscopy, langmuir-blodgett film, effect, hole-burning, persistent, hole burning, spectrum, dye, stark, degenerate"
+"I - spectroscopy, langmuir-blodgett film, effect, hole-burning, persistent, hole burning, spectrum, dye, stark, degenerate"
+"I - spectroscopy, langmuir-blodgett film, effect, hole-burning, persistent, hole burning, spectrum, dye, stark, degenerate"
+"I - spectroscopy, langmuir-blodgett film, effect, hole-burning, persistent, hole burning, spectrum, dye, stark, degenerate"
+"I - spectroscopy, langmuir-blodgett film, effect, hole-burning, persistent, hole burning, spectrum, dye, stark, degenerate"
+"I - spectroscopy, langmuir-blodgett film, effect, hole-burning, persistent, hole burning, spectrum, dye, stark, degenerate"
+"I - spectroscopy, langmuir-blodgett film, effect, hole-burning, persistent, hole burning, spectrum, dye, stark, degenerate"
+"I - spectroscopy, langmuir-blodgett film, effect, hole-burning, persistent, hole burning, spectrum, dye, stark, degenerate"
+"I - spectroscopy, langmuir-blodgett film, effect, hole-burning, persistent, hole burning, spectrum, dye, stark, degenerate"
+"I - spectroscopy, langmuir-blodgett film, effect, hole-burning, persistent, hole burning, spectrum, dye, stark, degenerate"
+"I - spectroscopy, langmuir-blodgett film, effect, hole-burning, persistent, hole burning, spectrum, dye, stark, degenerate"
+"I - spectroscopy, langmuir-blodgett film, effect, hole-burning, persistent, hole burning, spectrum, dye, stark, degenerate"
+"I - spectroscopy, langmuir-blodgett film, effect, hole-burning, persistent, hole burning, spectrum, dye, stark, degenerate"
+"I - spectroscopy, langmuir-blodgett film, effect, hole-burning, persistent, hole burning, spectrum, dye, stark, degenerate"
+"I - spectroscopy, langmuir-blodgett film, effect, hole-burning, persistent, hole burning, spectrum, dye, stark, degenerate"
+"I - spectroscopy, langmuir-blodgett film, effect, hole-burning, persistent, hole burning, spectrum, dye, stark, degenerate"
+"I - spectroscopy, langmuir-blodgett film, effect, hole-burning, persistent, hole burning, spectrum, dye, stark, degenerate"
+#v "abstract" s
+"Spectral holes were burnt in the excitation spectra of porphyrin centers imbedded in a multilayer assembly of poly-heptyl-cyanoacrylate Langmuir-Blodgett films. We found a strong dependence of the hole width on the burning wavelength and attributed it to energy transfer to lower energy centers in our concentrated sample. The temperature dependence of the hole width was measured between 1.7 and 10 K for two wavelengths and found steeper than in glasses but weaker than in most crystals. The holes were shallower and broader in a monolayer sample."
+"Langmuir-Blodgett films of cadmium arachidate in which perylene molecules had been embedded in low concentrations were selectively laser excited at temperatures in the range 1–50 K. The fluorescence in the spectral region of the first vibronic zero-phonon line was observed. At temperatures T ⩽ 30 K the fluorescence intensity, and in particular the intensity of the zero-phonon lines, increases with increasing temperature. The results are explained by a model of phonon-induced transitions in asymmetric double-well potentials, which was originally introduced to explain the phonon memory and persistent spectral hole burning. Conclusions about applications in phonon physics and about the low temperature spectroscopy of dyes in Langmuir-Blodgett films are descussed. In addition effects of electric fields on the fluorescence are described and possible applications in optical data storage and integrated optics are presented."
+"The hole-burning method is applied to the study of the electrochromism of a cadmium Langmuir—Blodgett multilayer doped with an amphiphilic cyanine dye. By studying bulk solutions of the same dye in a polymer, the change in dipole moment between its ground and excited states is determined. Hence, the orientation of the short chromophore axis in the film is deduced. The methods is proposed for the study of orientations and local internal electric fields in more complex Langmuir—Blodgett systems."
+"Multilayer films consisting of retinal, retinoic acid, and retinol were fabricated using the Langmuir-Blodgett method. It was found for the first time that these three materials in Langmuir-Blodgett films exhibit different photovoltaic characteristics. To study this difference of photovoltaic characteristics, the surface pressure vs area isotherms of these materials were measured and the dipole moment of the materials were calculated."
+"New methods for evaluating the molecular orientations using polarized Fourier transform IR spectroscopy are presented. When used together, the attenuated total reflection and the transmission modes can provide detailed orientation information of simple and complex Langmuir-Blodgett (LB) systems. The methods were applied to IR dichroic ratio data of cadmium stearate, atactic poly(methyl methacrylate) and isotactic (PMMA), and rigid-rod oligoimide LB multilayer films. The chain axes of the cadmium stearate films were uniaxially oriented at 37° on average. Orientations of PMMA LB films depended on the tacticity. Whereas uniaxial orientation was found for the methylene and the carbonyl stretching transition moments in the atactic PMMA films, biaxial orientation was indicated in the isotactic PMMA films. A least-squares analysis of the rigid-rod oligoimide data suggests that biaxial orientation is more probable than the single-crystal-type orientation. Orientation polydispersity, as characterized by a gaussian standard deviation, affects the dichroic ratio significantly, and hence affects the average orientation angle deduced from the data. The average orientation angles estimated with the conventional assumption of a single tilt angle for a uniaxial system are valid when the standard deviation is less than 0.2 rad (11.5°)."
+"The influence of impurity concentration on excitation and emission spectra, fluorescence decay rates and persistent spectral hole-burning parameters is reported for porphyrin dye molecules in a Langmuir—Blodgett film host. A shift of the fluorescence band and non-exponential radiative decay in heavily doped samples provide evidence of energy transfer. Hole widths in the heavily doped samples are strongly dependent on wavelength, becoming broader with higher excitation energy. No wavelength dependence of hole width and depth is observed for weakly doped samples. An analysis of the effect of Förster energy transfer on hole width and depth rules out this mechanism as being the whole explanation for the concentration and wavelength dependence. The effect of impurity aggregation is also inconsistent with our results."
+"The response to photocurrents of Langmuir-Blodgett (LB) film in a modified electrode containing a 9-cis-retinal protonated schiff base (PSB), as a working electrode in a photocell under light illumination without bias, has been investigated. A photocurrent of the order of 10−9 A/cm2 was observed, and the decay rate of the photocurrent during illumination was slowed by addition of Flavin Adenine Dinucleotide (FAD). The shape of the photosignal was found to depend significantly on the electrochemical cell arrangement."
+"Abstract Retinoid molecules have possibilities for novel photonic devices. In this work, we deposited retinoid LB films, and measured absorption spectra of the films. The absorption maxima of the LB films of retinal mixed with DPPC red-shifted, when the area of the retinal molecules decreased. It would be due to the dipole interaction between retinal and DPPC. The absorption spectra of the LB films of retinoic acid had four peaks. It would be caused by the monomer and three type aggregates."
+"We have investigated the photovoltaic response and measured the impedance of mixed Langmuir–Blodgett films of retinal derivatives and behenic acid along three perpendicular directions. The results indicate that the molecular dipoles in these samples are preferentially oriented in the direction perpendicular to the substrate. This microscopic arrangement is responsible for the observed anisotropy of both the dielectrical and photovoltaic properties of these thin organic films."
+"The author recollects his time in the group of D. Möbius in 1985-1986, within the department headed by Hans Kuhn, and the influence of Kuhn's concept of molecular assembly in the gestation of the first single-molecule experiments. He then briefly surveys the recent applications of single-molecule spectroscopy to complex and heterogeneous systems. In particular the field of single-molecule microscopy in membranes and at biological interfaces is now strongly growing, closing the circle back to Langmuir films, the systems which led to the development of single-molecule optical techniques."
+"Cyanine (Cy) dye was embedded in (or absorbed by) an arachidic acid monolayer on an air-water interface and multilayer samples deposited on glass slides were obtained. The studies of their absorption spectra showed that Cy in Langmuir-Blodgett (LB) films formed H aggregates. The enhanced large third-order susceptibility has been measured to be 5 × 10-8 e.s.u. for the LB films, which is three orders of magnitude larger than that deduced from the measured second-order hyperpolarizability of Cy monomers in bulk solution. The origin of this large third-order susceptibility for the LB films, due to the near-reaonant effect and indirect transformation between H aggregate and monomers and delocalized exciton enhancement in the aggregates, has been discussed as well."
+"Abstract Retinoid molecules are the important component for photoreaction. We observed absorption spectra of the solution of retinoic acid, soaked films, and LB films. The spectrum of the solution shows the peak at 368nm. The spectrum of the soaked film could be resolved into two peaks. The peak at 370nm would be due to the monomer molecules, and the peak at 418nm would be due to the aggregate. The absorption spectrum of the LB film of retinoic acid shows the main peak at 380nm (M), subpeak at 358nm (A2) and the shoulder peak at 420nm (A1). The main peak (M) is considered to be the monomer molecules. Eight kinds of aggregates of retinoic acid molecules were considered, and the shifts of absorption transition energies of the aggregates were calculated using the semiempirical electronic structure program. The results suggest that the peak A2 at 358nm should be due to the trimer of retinoic acid."
+"We present here the generation of forward phase conjugate waves (FPCWs) by means of degenerate multiwave mixing with three-dimensional geometry in C60 arachidic acid (C60−AA) complex Langmuir-Blodgett films. The FPCWs are induced by third- and higher-order (5th-order) nonlinear effects of the films. The 3rd-order susceptibility χ(3) was measured to be 1.8 ×10−8 esu for the film at 532 nm wavelength. In the meantime, optical storage effects in C60−AA complex LB films were observed. The origin of the effects is considered mainly due to the light-induced transformation between the aggregate and monomer structure of C60 molecules."
+""
+"The electrochemical properties of polyesters derived from oligothiophenes have been studied in solution, and as Langmuir—Blodgett (LB) and cast films. Polyesters with four or five thiophene units exhibited a well-defined voltammetric response and good LB transfer characteristics. Mono and multilayer LB films were electroactive with clear symmetrical peaks, better developed than for the cast films. These films can be p- or n-doped electrochemically."
+""
+"Well-ordered ultrathin β-carotene films were successfully fabricated using Langmuir-Blodgett (LB) method. Molecular orientation of the films was also investigated. Surface pressure-area isotherm suggested that β-carotene oriented perpendiculaly at the air-water interface by compression, and thus enabled to form two-dimensional film. X-ray diffraction indicated the tilt orientations of 55 and 40 degrees in the five and nine layers, respectively. Fourier-transform infrared reflection-absorption spectroscopy revealed ionone rings of β-carotene perpendicular to the substrate. The molecular orientation of the β-carotene LB films greatly depends upon the cohesive force between the conjugated chains. LB films of a mixture of β-carotene and arachidic acid were ill-defined. This is due to the fact that β-carotene thrusts up to the hydrophobic group of arachidic acid."
+"The dependence of particulate Langmuir–Blodgett (LB) monolayer quality on the surface nature of the substrate was investigated by pretreating the substrates with different methods, and the optimal withdrawal speed was determined by detecting the quality of particulate monolayers deposited at different withdrawal speeds. Furthermore, the effects of stearic acid (SA) concentration on the quality of particulate monolayers were discussed. Results indicated that surface amination would favor the transfer of the floating particulate monolayer from the interface to the substrate, which would be attributed to the formation of chemical bonds between the – NH 2 groups on the substrate surface and the functional groups of – COOH and Si – OH groups on surfaces of particles floating at the interface. And the withdrawal speed of 1 mm ⋅ min -1 was appropriate for the fabrication of high-quality particulate LB monolayer because low withdrawal speed can offer sufficient time to form chemical bonds and expel the subphase from the substrate. Additionally, SEM images illustrated that the SA concentration of 0.40 mg ⋅ mL -1 was suitable for the fabrication of well-ordered particulate LB monolayers composed by the particles of 380 nm."
+"We designed two cruciform-structured oligo(phenylenethynylene) (OPE) molecular wires for probing the intra- and inter-molecular exciton migration pathways, and constructed highly ordered molecular assembly using Langmuir–Blodgett (LB) technique. Minor structural variation turns out to influence significantly exciton migration routes. Though the molecular structures are similar, these two molecules exhibit distinct exciton migration behaviors. Intermolecular exciton migration is observed in unmodified molecular wire OPE1; while only intramolecular exciton migration is allowed in the side-chain modified molecular wire OPE2. This work presents a facile strategy for controlling exciton migration in solid state, and provides useful insights for designing active components for opto-electronic devices."
+"Introduction History of the Invention and Development of the Polyimides, C. E. Sroog Synthesis Synthesis of Polyimides, Tohru Takekoshi Synthesis of Polyamideimides, Yoshio Imai Synthesis of Fluorinated Polyimides, Shigekuni Sasaki and Shiro Nishi Photosensitive Polyimides, Molecular Design and Synthesis, Toshihiko Omote Chemistry and Kinetics of Polyimide Formation, James M. Sonnett and Thomas P. Gannett Vapor Phase Deposition of Polyimides, Thomas Strunskus and Michael Grunze Bulk Properties and Modifications Thermal Curing in Polyimide Films and Coatings, John C. Coburn and Michael T. Pottinger Infrared Curing of Polyimides, John G. Stephanie and Paul G. Rickerl Sorption and Diffusion of Water Vapor in Polyimide Films, Ken-ichi Okamoto Charge Transfer in Aromatic Polyimides, Joseph M. Salley and Curtis W. Frank Dielectric Properties of Polyimides and Factors Influencing Such Properties, Ressano De Souza-Machado, Shien-Yang Wu, and Denice D. Denton Degradation and Stability of Polyimides, James A. Cella Surface Characterization, Modification, and Adhesion Aspects Surface Characterization of Polyimides, Fabio Garbassi, Marco Morra, and Ernesto Occhiello Plasma Surface Modification and Etching of Polyimides, Frank D. Egitto and Luis J. Matienzo Laser Ablation of Polyimides, George H. Pettit Ion Beam Modification of Polyimides, Eal H. Lee Wet Chemical Modification of Polyimide Surfaces: Chemistry and Application, Kang-Wook Lee and Alfred Viehbeck Tribological Behavior of Polyimides, U.S. Tewari and J. Bijwe Adhesion of Polyimides to Various Substrates, L. Paivikki Buchwalter Adhesion of Metal Films to Polyimides, Luis J. Matienzo and William N. Unertl Applications Polyimides for Gas Separation, Michael Langsam Applications of Polyimides as Photosensitive Materials, Jean-Marc Bureau and Jean-Paul Droguet Polyimides in High-Performance Electronics Packaging and Optoelectronic Applications, Claudius Feger and Hilmar Franke Polyimides as Langmuir-Blodgett Films, Mitsumasa Iwamoto and Masa-aki Kakimoto "
+"A novel substituted diacetylene, 2-methyl-4-(6″-octadecoxy-2″,4″-hexdiyne) oxy-4′-nitroazobenzene (4) was synthesized. Its structure was confirmed by elemental analysis, IR spectroscopy and mass spectrometry. A stable Langmuir film of 4 was formed at the air-water interface and its Langmuir-Blodgett (LB) film was fabricated and characterized. Solid state polymerization of the LB films was performed by 60Co γ radiation at room temperature."
+"Extinction peaks of cuprous oxide microcrystals are systematically blue shifted with the refractive index increase of their environment."
+"Bisimidazolium quaternary based on calix[4]arene 1( BIQ-Calix) was synthesized. Its Langmuir-Blodgett( LB) film on air / water surface or air / dicarboxylic acid interface were characterized by surface pressure-area isotherms,the compress and outspread isotherms,and monolayer relaxation isotherms,the corresponding LB films were investigated using UV-Vis and FT-IR spectroscopy and atomic force microscope( AFM). The results indicated that 1 could form stable monolayer or multilayer film on air / water,oxalic acid,malonic acid and succinic acid interface with the collapsed surface pressure were 24,30,33,and 28 mN·m-1,and the limiting area per molecule were 2. 0,2. 3,2. 5 and 2. 2 nm2,respectively. The hybrid LB films of 1 and dicarboxylic acid with H aggregate could be transferred to solid substrate successful."
+"\nThe investigated functional amine-containing compounds are promising candidates for many potential"
+"Physical properties of thin films of thiophene derivatives and their polymers are greatly affected by the structure and orientation of their molecules, as well as the local environment. 1 In order to obtain thin films of such compounds for practical applications, from electronic devices to chemo- and biosensors. 2-3 , it is important to control orientation and order of the molecules in the formed functional materials. Interesting and efficient way to allow for such a control is Langmuir and Langmuir-Blodgett technique. In the presented contribution formation and properties of ultrathin films of the series of bis(2,2’-bithienyl)methane derivatives appended with crown ethers of varying size are presented. Uniform Langmuir films of liquid-expanded type were obtained at water-air interface for all of the used compounds. The influence of metal ions on the orientation of the molecules in the films was relatively small. Obtained Langmuir films were subsequently transferred onto the solid substrates by using Langmuir-Blodgett technique forming mono- and multilayers. In order to further elucidate structure of the formed layers AFM and STM techniques have been applied. The morphology of the multilayer films depended both on the size and orientation of the crown ether moiety in the molecules. However, in all cases formed multilayers were porous (Fig. 1). In case of monolayers, the STM studies helped to ascertain organization of the molecules in the Langmuir-Blodgett film. On the other hand the scanning tunnelling spectroscopy (STS) allowed acquisition of information about the electrical properties of the studied thiophene derivatives. Bibliography 1. D. Hu, J. Yu, K. Wong, B. Bagchi, P. J. Rossky, P. F. Barbara, Nature, 405 , (2000), 1030. 2. A. G. MacDiarmid, Angew. Chem., Int. Ed. , 40 , (2001 ) ,2581. 3. R. Singhal, A. Chaubey, K. Kaneto, W. Takashima, B. D. Malhotra, Biotechnol. Bioeng., 85 (2004), 277. Figure 1"
+"The surface pressure versus area isotherm of a Langmuir film of ytterbium bisphthalocyanine on water subphases of pH 2.1 to 9.2 has been investigated and an average area per molecule of 70 AA2 measured. The monolayer was found to collapse at a rate of 29%/hour. A dipping regime has been established for the deposition of Langmuir-Blodgett films with transfer ratios of unity. These deposited films were found to be electrochromic and their spectra are discussed."
+"The ring patterns of calcium oxalate crystals were induced by domains in Langmuir–Blodgett (LB) films of dipalmitoylphosphatidylcholine (DPPC). The result was explained by the defects at the ring boundaries of liquid condensed (LC) and liquid expanded (LE) phases of LB film. These boundaries could provide less free energy and much more nucleating sites for COM crystals."
+""
+"Ultrathin films of regularly adsorbed biological molecules have been fabricated by means of the modified Langmuir-Blodgett (LB) method using an organo-modified alminosilicate (montmorillonite). In this combined methods, clay LB films play a template role in the formation of the lysozyme thin layer. Monolayer behavior on the buffer solution containing lysozyme molecules monitored by pressure-area isotherms. Confirmation of chemisorption of biological molecules to the anionic montmorillonite surface is performed by comparison between IR spectra of multilayers of organo-clay and one chemisorbed lysozyme. The bands of N-H and C=O stretching vibration of lysozyme were clearly confirmed on the spectra of multilayers chemisorbed biomolecules. Surface morphology of these monolayers was observed by atomic force microscopy. The difference between height information of monolayers for only organo-modified alminosilicates and their adsorbed lysozyme indicates about 9 nm. This value is almost corresponded to twice for length of lysozyme along the long axis. Hence, formation of double layered structure of biomolecule on the montmorillonite surface was assumed in this system."
+""
+""
+"Abstract The analysis of the fluorescence decay of a cyanine dye linked covalently to two pyrene moieties suggests an excited state equilibrium between the locally excited state of the dye and a charge transfer state. Excitation of a mixed monolayer of this trichromophore and palmitic acid deposited on SnO2 results in a photo-sensitized anodic current. The dependence of this photocurrent on time and hydroquinone (regenerator) concentration suggests that the alien recombination of the oxidized dye with electrons in the conduction band or in suraface states as well as the irreversible degradation of the oxidized dye are slowed down compared to systems where the charge injection is mediated by di-octadecyloxacarbocyanine."
+""
+"We have studied the relationship between the film structure and the conditions for film preparation of a hybrid film of a D- ~ -A zwitter ionic molecule and a sodium montmorillonite. The films were obtained by means of the modified Langmuir-Blodgett technique. As for the D- ~ -A zwitter ionic molecule, indoline-TCNQ intramolecular charge-transfer compound (ind-TCNQ) was employed. We have prepared various kinds of hybrid films by changing a parameter during the film preparation. The films thus obtained have been characterized by means of the second-harmonic generation measurements. As a result, a surface pressure at film deposition plays an important role for maintaining the film structure. clay sodium montmorillonite zwitter ionic molecule TCNQ derivative hybrid Langmuir-Blodgett film second-harmonic generation"
+"\nsolution phase–molecular layer interface""
+#v "title" s
+"Hole burning on porphyrin centers in langmuir-blodgett films"
+"Dynamical processes at low temperatures in Langmuir-Blodgett films observed with selectivity laser-excited dye molecules"
+"Stark effect in Langmuir—Blodgett films studied by hore-burning"
+"Photovoltaic Effects of Retinal-Related Materials in Langmuir-Blodgett Films"
+"Determination of molecular orientations in Langmuir-Blodgett films by polarized Fourier transform IR attenuated total reflection and transmission spectroscopy"
+"Concentration effects on spectra and persistent hole-burning of porphyrin-doped Langmuir—Blodgett films"
+"Biphasic photocurrent of a photocell containing retinal Langmuir-Blodgett film"
+"Spectroscopic Properties of Retinoid Molecules in Langmuir-Blodgett Films"
+"Dielectric anisotropy and photoinduced voltage in Langmuir–Blodgett films of retinal derivatives"
+"From Langmuir–Blodgett films to single molecules"
+"Third-order optical non-linearity of absorbing dye Langmuir-Blodgett films"
+"Absorption Properties of Langmuir-Blodgett Films of Retinoic Acid"
+"Three-dimensional degenerate multiwave mixing and optical storage effects in C60 Langmuir-Blodgett films"
+"Multiple forward phase conjugate waves by degenerate four-wave-mixing in Langmuir-Blodgett films with BOXCARS geometry"
+"Stark effect in hole-burning spectra of dye-doped Langmuir-Blodgett films"
+"Picosecond transient absorption spectroscopy on 132-hydroxy-bacteriopheophorbide-methylester (0H-BPME) molecules in solution and embedded in mixed Langmuir-Blodgett films"
+"Electro-optical spectroscopy on aggregated chromophore systems in Langmuir-Blodgett films"
+"Multiple forward phase conjugate waves by degenerate four-wave mixing in Langmuir-Blodgett films with BOXCARS geometry"
+"Role of central metal in phthalocyanine Langmuir-Blodgett films studied by hole burning"
+"Determination of Third-Order Optical Nonlinearity Dispersion of 1-Methyl-1<sup>′</sup>-Octadecyl-2,2<sup>′</sup>-Cyanine Perchlorate Langmuir-Blodgett Films Using Electroabsorption Spectroscopy"
+"High-resolution optical spectroscopy of Langmuir-Blodgett films"
+"Excited energy transfer in Langmuir-Blodgett films studied by hole burning spectroscopy"
+"Fluorescence hole-burning spectroscopy of phthalocyanine Langmuir-Blodgett films"
+"High Resolution Spectroscopy of Langmuir-Blodgett Films"
+"Luminescence line narrowing and persistent hole burning in organic materials: principles and new results"
+"Hole-Burning Spectroscopy of Dye-Doped Langmuir-Blodgett Films"
+"Polymer films of J-aggregated cyanine dyes and metal clusters for non-linear optical applications"
+"Concentration Effects on Spectra and Persistent Hole-Burning of Porphyrin Doped Langmuir-Blodgett Films"
+"Electric Field Effect on Hole-Burning Spectra of A Cyanine Dye in Langmuir-Blodgett Films"
+"Persistent Hole Burning Spectroscopy Applications On Phthalocyanine Langmuir-Blodgett Films"
+"Model for burning kinetics and shape of fluence-saturated spectral holes"
+"Stark spectroscopy of Langmuir-Blodgett monolayers and multilayers"
+"Dielectric characterization of colloidal solutions of retinoic acid embedded in microspheres of polyvinyl alcohol"
+"Doping effect upon the molecular order of thin films of conducting polymers"
+"Persistent Spectral Hole Burning of Selectively Laser-Excited, Adsorbed Dyes and Their Interactions with Surfaces"
+#v "wos_id" s
+"https://openalex.org/W2076398207"
+"https://openalex.org/W2065876881"
+"https://openalex.org/W2004395490"
+"https://openalex.org/W1973699178"
+"https://openalex.org/W2058526840"
+"https://openalex.org/W2046590404"
+"https://openalex.org/W2074119342"
+"https://openalex.org/W1994794804"
+"https://openalex.org/W2060299779"
+"https://openalex.org/W1970426535"
+"https://openalex.org/W1971252847"
+"https://openalex.org/W2095393185"
+"https://openalex.org/W2058549083"
+"https://openalex.org/W2080068730"
+"https://openalex.org/W1967690502"
+"https://openalex.org/W1970685610"
+"https://openalex.org/W1986089470"
+"https://openalex.org/W4231287465"
+"https://openalex.org/W2044044779"
+"https://openalex.org/W1974813993"
+"https://openalex.org/W2017646287"
+"https://openalex.org/W2027959149"
+"https://openalex.org/W1964863537"
+"https://openalex.org/W2274212497"
+"https://openalex.org/W1997035009"
+"https://openalex.org/W2229109320"
+"https://openalex.org/W1975900947"
+"https://openalex.org/W4321521062"
+"https://openalex.org/W4321521085"
+"https://openalex.org/W285392141"
+"https://openalex.org/W2074238886"
+"https://openalex.org/W2085390959"
+"https://openalex.org/W1967352253"
+"https://openalex.org/W2023743567"
+"https://openalex.org/W600844776"

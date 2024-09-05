@@ -1,0 +1,521 @@
+#vertices 59
+"J-aggregation of photochromic spiropyran in Langmuir-Blodgett films"
+"Controls of photochromic reactions in spiropyran Langmuir-Blodgett films"
+"Photoinduced Self-Organization in Langmuir−Blodgett Films"
+"Light-induced molecular orientation in Langmuir-Blodgett films of spiropyran"
+"Photochromic and non-linear optical properties of C16H33P3CNQ and C16H33Q3CNQ Langmuir-Blodgett films"
+"Positive and negative photochromism in thin organic Langmuir-Blodgett films"
+"Multiple wavelength optical recording using cyanine dye <i>J</i> aggregates in Langmuir–Blodgett films"
+"J-aggregate formation of amphiphilic merocyanine in Langmuir–Blodgett films"
+"Fabrication and Femtosecond Optical Response of Langmuir−Blodgett Films with Two-Dimensional J-Aggregates"
+"Light-Induced J-Aggregation of Merocyanine in Langmuir and Langmuir−Blodgett Films"
+"Aggregates in Langmuir–Blodgett Films of Spiropyrans Having Hydroxyl or Hydroxymethyl Group"
+"Surface and photochemical properties of Langmuir monolayer and Langmuir–Blodgett films of a spiropyran derivative"
+"Negative Photochromism of a Spiropyran in a Langmuir–Blodgett Film"
+"Optical Properties and Molecular Orientation of Aggregates in Langmuir–Blodgett Films of a Long-Chain Spiropyran"
+"J-aggregate formation of dyes in Langmuir–Blodgett films"
+"Rectifying behaviors of Langmuir–Blodgett films of an asymmetrically substituted phthalocyanine"
+"Aggregated Structures in Langmuir−Blodgett Films of Pyridinium−Dicyanomethanide Dyes"
+"Temperature Effect on Photochromic Reaction in Langmuir−Blodgett Films of Amphiphilic Spiropyran and Their Morphological Changes"
+"Surface plasmon polariton studies of highly absorbing Langmuir-Blodgett films"
+"Aggregation control of photochromic spiropyrans in Langmuir-Blodgett films"
+"Light-induced J-aggregation in mixed Langmuir–Blodgett films of selenium-containing cyanine and azobenzene"
+"Photoreactions and lateral patterning in Langmuir and Langmuir–Blodgett films"
+"Fine tuning of the photochromic absorption band of heteromolecular Langmuir–Blodgett films of zwitterionic donor-π-acceptor molecules"
+"J-aggregate Formation in Single-Layer Amphiphilic Spiropyran Langmuir–Blodgett Films"
+"Efficient energy transfer in Langmuir–Blodgett films containing J-aggregated antenna cyanine dye"
+"Guided wave study of langmuir-blodgett films of eicosanoic acid"
+"Light-Induced Structural Change of Langmuir-Blodgett Films"
+"Langmuir−Blodgett Films of a New Pyridinium−Dicyanomethanide Dye and Their Potential Optical Applications"
+"Information storage based on photochemical effects in mixed Langmuir–Blodgett films"
+"The spectroscopic and morphological behavior of merocyanine dye Langmuir–Blodgett films"
+"J-Aggregate Formation and Morphological Change on UV Irradiation of the Langmuir-Blodgett Films of Spiropyran"
+"J-aggregates of thiadicarbocyanine dyes with fixed polymethine chain incorporated in Langmuir-Blodgett films"
+"Control of In-Plane Orientation of Merocyanine Dye in Mixed Langmuir-Blodgett Films Using Salt Formation with Matrix"
+"Electro-optical characterizations of the large second-order optical nonlinearity of Langmuir-Blodgett films"
+"Langmuir–Blodgett films of pyridinium-dicyanomethanide dyes mixtures with photobleachable absorption bands"
+"Ordered structure and electrical properties in spiropyran Langmuir-Blodgett films"
+"Photosensitivity and electrical properties of some azobenzene derivatives in Langmuir-Blodgett films"
+"Structuring of tricarbocyanine dye molecules in Langmuir-Blodgett films"
+"Structural Investigation of Spiropyran Containing Langmuir-Blodgett Films using Scanning Probe Microscope Technique"
+"Triggered J-aggregation in Mixed Langmuir–Blodgett Films of Amphiphilic Spiropyran Having a Methoxy Group at the 5’ Position and an Azobenzene Derivative"
+"Langmuir–Blodgett films of a new hemicyanine dye"
+"Control of Photoreaction of Amphiphilic Spiropyran/<i>n</i>-Alkane Langmuir and Langmuir−Blodgett Films Using the Phase Transition of <i>n</i>-Alkane"
+"Critical edge studies of highly absorbing Langmuir-Blodgett films"
+"Formation of Metal-free J-aggregates in Merocyanine/Spiropyran Mixed Langmuir-Blodgett Film"
+"Improvement of the properties of a functional organized thin film by the introduction of nanoparticles part I. Retardation of photo-isomerization rate of a spiropyran-containing Langmuir-Blodgett film by the incorporation of SiO2 nanoparticles"
+"A First Study of Langmuir−Blodgett Films of 1-[<i>N</i>-(<i>n</i>-Hexadecyl)-4-pyridinio]-2-[5-(dicyano- methanidyl)thien-2-yl]ethene"
+"Isomerization and changes of the properties of spiropyrans by mechanical stress: advances and outlook"
+"Photoreactions in Langmuir-Blodgett Films"
+"Effect of Fabrication Conditions on the Structures and Photoreactions of Langmuir-Blodgett Films of Amphiphilic Spiropyran"
+"AM1/CI study of a molecular rectifier"
+"Study of lateral electron transfer in Langmuir–Blodgett films containing cyanine and viologen amphiphiles"
+"Electronic structure of donor-spacer-acceptor molecules of potential interest for molecular electronics. IV. Geometry and device properties of P3CNQ and Q3CNQ"
+"The Quest for D-σ-A Unimolecular Rectifiers and Related Topics in Molecular Electronics"
+"Bound–bound transition in a field with a nonzero average cube in a molecule in a Langmuir–Blodgett film"
+"Critical edge studies of highly absorbing anisotropic films"
+"Analysis of Film Characteristics of Long Alkyl Chain-Contained 6-Nitro Spiropyran Fabricated by LB and Spin-Coating Method"
+"Second harmonic generation from LB films of C16H33-BT3CNQ"
+"Multifrequency Photochromic Memory Materials"
+"Redox reactions on modified bilayer lipid membranes for biosensing device"
+#edges nonweighted undirected
+0 5
+1 5
+0 1
+0 3
+1 4
+0 4
+2 7
+7 26
+7 20
+0 7
+2 9
+3 9
+9 26
+6 9
+8 9
+9 11
+9 32
+0 9
+1 10
+11 30
+10 11
+11 13
+11 17
+0 11
+5 12
+1 13
+10 13
+5 13
+13 19
+0 13
+2 14
+3 14
+14 30
+14 26
+14 23
+6 14
+8 14
+14 20
+7 14
+14 32
+14 17
+0 14
+4 15
+15 22
+15 52
+1 16
+4 16
+6 16
+2 17
+17 23
+6 17
+17 32
+0 17
+4 18
+18 25
+1 19
+0 19
+2 20
+2 21
+21 26
+9 21
+8 21
+21 41
+0 21
+4 22
+2 23
+6 23
+20 23
+0 23
+6 24
+2 26
+6 24
+1 27
+4 27
+6 27
+1 28
+16 28
+27 28
+4 28
+28 45
+22 28
+6 28
+0 28
+7 29
+2 30
+20 30
+0 30
+33 54
+1 34
+16 34
+27 34
+4 34
+34 45
+6 34
+5 35
+0 35
+31 37
+6 37
+0 38
+1 39
+21 39
+10 39
+6 39
+13 39
+19 39
+39 41
+0 39
+1 40
+16 40
+4 40
+22 40
+6 40
+28 40
+0 40
+2 41
+3 41
+26 41
+9 41
+11 41
+0 41
+4 42
+25 42
+18 42
+7 43
+14 43
+1 44
+0 44
+1 45
+27 45
+4 45
+6 45
+0 45
+43 46
+12 46
+36 46
+39 46
+41 46
+20 47
+2 48
+3 48
+21 48
+9 48
+8 48
+41 48
+0 48
+4 49
+49 51
+24 50
+4 51
+22 51
+3 53
+25 54
+18 54
+42 54
+1 55
+4 56
+1 57
+0 57
+4 58
+22 58
+#v "ClusterIndex" n
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+#v "ClusterName" s
+"H - dye, photochromic, langmuir–blodgett film, amphiphilic spiropyran, j-aggregate formation, j-aggregation, light-induced, cyanine, change, merocyan..."
+"H - dye, photochromic, langmuir–blodgett film, amphiphilic spiropyran, j-aggregate formation, j-aggregation, light-induced, cyanine, change, merocyan..."
+"H - dye, photochromic, langmuir–blodgett film, amphiphilic spiropyran, j-aggregate formation, j-aggregation, light-induced, cyanine, change, merocyan..."
+"H - dye, photochromic, langmuir–blodgett film, amphiphilic spiropyran, j-aggregate formation, j-aggregation, light-induced, cyanine, change, merocyan..."
+"H - dye, photochromic, langmuir–blodgett film, amphiphilic spiropyran, j-aggregate formation, j-aggregation, light-induced, cyanine, change, merocyan..."
+"H - dye, photochromic, langmuir–blodgett film, amphiphilic spiropyran, j-aggregate formation, j-aggregation, light-induced, cyanine, change, merocyan..."
+"H - dye, photochromic, langmuir–blodgett film, amphiphilic spiropyran, j-aggregate formation, j-aggregation, light-induced, cyanine, change, merocyan..."
+"H - dye, photochromic, langmuir–blodgett film, amphiphilic spiropyran, j-aggregate formation, j-aggregation, light-induced, cyanine, change, merocyan..."
+"H - dye, photochromic, langmuir–blodgett film, amphiphilic spiropyran, j-aggregate formation, j-aggregation, light-induced, cyanine, change, merocyan..."
+"H - dye, photochromic, langmuir–blodgett film, amphiphilic spiropyran, j-aggregate formation, j-aggregation, light-induced, cyanine, change, merocyan..."
+"H - dye, photochromic, langmuir–blodgett film, amphiphilic spiropyran, j-aggregate formation, j-aggregation, light-induced, cyanine, change, merocyan..."
+"H - dye, photochromic, langmuir–blodgett film, amphiphilic spiropyran, j-aggregate formation, j-aggregation, light-induced, cyanine, change, merocyan..."
+"H - dye, photochromic, langmuir–blodgett film, amphiphilic spiropyran, j-aggregate formation, j-aggregation, light-induced, cyanine, change, merocyan..."
+"H - dye, photochromic, langmuir–blodgett film, amphiphilic spiropyran, j-aggregate formation, j-aggregation, light-induced, cyanine, change, merocyan..."
+"H - dye, photochromic, langmuir–blodgett film, amphiphilic spiropyran, j-aggregate formation, j-aggregation, light-induced, cyanine, change, merocyan..."
+"H - dye, photochromic, langmuir–blodgett film, amphiphilic spiropyran, j-aggregate formation, j-aggregation, light-induced, cyanine, change, merocyan..."
+"H - dye, photochromic, langmuir–blodgett film, amphiphilic spiropyran, j-aggregate formation, j-aggregation, light-induced, cyanine, change, merocyan..."
+"H - dye, photochromic, langmuir–blodgett film, amphiphilic spiropyran, j-aggregate formation, j-aggregation, light-induced, cyanine, change, merocyan..."
+"H - dye, photochromic, langmuir–blodgett film, amphiphilic spiropyran, j-aggregate formation, j-aggregation, light-induced, cyanine, change, merocyan..."
+"H - dye, photochromic, langmuir–blodgett film, amphiphilic spiropyran, j-aggregate formation, j-aggregation, light-induced, cyanine, change, merocyan..."
+"H - dye, photochromic, langmuir–blodgett film, amphiphilic spiropyran, j-aggregate formation, j-aggregation, light-induced, cyanine, change, merocyan..."
+"H - dye, photochromic, langmuir–blodgett film, amphiphilic spiropyran, j-aggregate formation, j-aggregation, light-induced, cyanine, change, merocyan..."
+"H - dye, photochromic, langmuir–blodgett film, amphiphilic spiropyran, j-aggregate formation, j-aggregation, light-induced, cyanine, change, merocyan..."
+"H - dye, photochromic, langmuir–blodgett film, amphiphilic spiropyran, j-aggregate formation, j-aggregation, light-induced, cyanine, change, merocyan..."
+"H - dye, photochromic, langmuir–blodgett film, amphiphilic spiropyran, j-aggregate formation, j-aggregation, light-induced, cyanine, change, merocyan..."
+"H - dye, photochromic, langmuir–blodgett film, amphiphilic spiropyran, j-aggregate formation, j-aggregation, light-induced, cyanine, change, merocyan..."
+"H - dye, photochromic, langmuir–blodgett film, amphiphilic spiropyran, j-aggregate formation, j-aggregation, light-induced, cyanine, change, merocyan..."
+"H - dye, photochromic, langmuir–blodgett film, amphiphilic spiropyran, j-aggregate formation, j-aggregation, light-induced, cyanine, change, merocyan..."
+"H - dye, photochromic, langmuir–blodgett film, amphiphilic spiropyran, j-aggregate formation, j-aggregation, light-induced, cyanine, change, merocyan..."
+"H - dye, photochromic, langmuir–blodgett film, amphiphilic spiropyran, j-aggregate formation, j-aggregation, light-induced, cyanine, change, merocyan..."
+"H - dye, photochromic, langmuir–blodgett film, amphiphilic spiropyran, j-aggregate formation, j-aggregation, light-induced, cyanine, change, merocyan..."
+"H - dye, photochromic, langmuir–blodgett film, amphiphilic spiropyran, j-aggregate formation, j-aggregation, light-induced, cyanine, change, merocyan..."
+"H - dye, photochromic, langmuir–blodgett film, amphiphilic spiropyran, j-aggregate formation, j-aggregation, light-induced, cyanine, change, merocyan..."
+"H - dye, photochromic, langmuir–blodgett film, amphiphilic spiropyran, j-aggregate formation, j-aggregation, light-induced, cyanine, change, merocyan..."
+"H - dye, photochromic, langmuir–blodgett film, amphiphilic spiropyran, j-aggregate formation, j-aggregation, light-induced, cyanine, change, merocyan..."
+"H - dye, photochromic, langmuir–blodgett film, amphiphilic spiropyran, j-aggregate formation, j-aggregation, light-induced, cyanine, change, merocyan..."
+"H - dye, photochromic, langmuir–blodgett film, amphiphilic spiropyran, j-aggregate formation, j-aggregation, light-induced, cyanine, change, merocyan..."
+"H - dye, photochromic, langmuir–blodgett film, amphiphilic spiropyran, j-aggregate formation, j-aggregation, light-induced, cyanine, change, merocyan..."
+"H - dye, photochromic, langmuir–blodgett film, amphiphilic spiropyran, j-aggregate formation, j-aggregation, light-induced, cyanine, change, merocyan..."
+"H - dye, photochromic, langmuir–blodgett film, amphiphilic spiropyran, j-aggregate formation, j-aggregation, light-induced, cyanine, change, merocyan..."
+"H - dye, photochromic, langmuir–blodgett film, amphiphilic spiropyran, j-aggregate formation, j-aggregation, light-induced, cyanine, change, merocyan..."
+"H - dye, photochromic, langmuir–blodgett film, amphiphilic spiropyran, j-aggregate formation, j-aggregation, light-induced, cyanine, change, merocyan..."
+"H - dye, photochromic, langmuir–blodgett film, amphiphilic spiropyran, j-aggregate formation, j-aggregation, light-induced, cyanine, change, merocyan..."
+"H - dye, photochromic, langmuir–blodgett film, amphiphilic spiropyran, j-aggregate formation, j-aggregation, light-induced, cyanine, change, merocyan..."
+"H - dye, photochromic, langmuir–blodgett film, amphiphilic spiropyran, j-aggregate formation, j-aggregation, light-induced, cyanine, change, merocyan..."
+"H - dye, photochromic, langmuir–blodgett film, amphiphilic spiropyran, j-aggregate formation, j-aggregation, light-induced, cyanine, change, merocyan..."
+"H - dye, photochromic, langmuir–blodgett film, amphiphilic spiropyran, j-aggregate formation, j-aggregation, light-induced, cyanine, change, merocyan..."
+"H - dye, photochromic, langmuir–blodgett film, amphiphilic spiropyran, j-aggregate formation, j-aggregation, light-induced, cyanine, change, merocyan..."
+"H - dye, photochromic, langmuir–blodgett film, amphiphilic spiropyran, j-aggregate formation, j-aggregation, light-induced, cyanine, change, merocyan..."
+"H - dye, photochromic, langmuir–blodgett film, amphiphilic spiropyran, j-aggregate formation, j-aggregation, light-induced, cyanine, change, merocyan..."
+"H - dye, photochromic, langmuir–blodgett film, amphiphilic spiropyran, j-aggregate formation, j-aggregation, light-induced, cyanine, change, merocyan..."
+"H - dye, photochromic, langmuir–blodgett film, amphiphilic spiropyran, j-aggregate formation, j-aggregation, light-induced, cyanine, change, merocyan..."
+"H - dye, photochromic, langmuir–blodgett film, amphiphilic spiropyran, j-aggregate formation, j-aggregation, light-induced, cyanine, change, merocyan..."
+"H - dye, photochromic, langmuir–blodgett film, amphiphilic spiropyran, j-aggregate formation, j-aggregation, light-induced, cyanine, change, merocyan..."
+"H - dye, photochromic, langmuir–blodgett film, amphiphilic spiropyran, j-aggregate formation, j-aggregation, light-induced, cyanine, change, merocyan..."
+"H - dye, photochromic, langmuir–blodgett film, amphiphilic spiropyran, j-aggregate formation, j-aggregation, light-induced, cyanine, change, merocyan..."
+"H - dye, photochromic, langmuir–blodgett film, amphiphilic spiropyran, j-aggregate formation, j-aggregation, light-induced, cyanine, change, merocyan..."
+"H - dye, photochromic, langmuir–blodgett film, amphiphilic spiropyran, j-aggregate formation, j-aggregation, light-induced, cyanine, change, merocyan..."
+"H - dye, photochromic, langmuir–blodgett film, amphiphilic spiropyran, j-aggregate formation, j-aggregation, light-induced, cyanine, change, merocyan..."
+#v "abstract" s
+"The possibility of controlling the photochromic reactions of two different spiropyrans was investigated using the Langmuir-Blodgett technique. The spiropyran having a long chain formed an unstable monolayer without UV light and a stable monolayer with UV light. The spiropyran having two long chains, however, could form more stable monolayers with and without irradiation and the most stable monolayer was formed on mixing with n-octadecane in a molar ratio of 1:2. The assemblies of this monolayer, under UV irradiation at temperatures above 35 °C, exhibited a sharp and intense band at a longer wavelength, which could be assigned to the formation of J-aggregates. The half-decay period in the dark was 104 times longer than that of conventional spiropyrans. The possibilities of three-dimensional high density optical memory with this photochromic spiropyran are suggested."
+"The possibility of controlling photochromic reactions has been investigated in Langmuir-Blodgett (LB) films. The formation of J aggregates of a spiropyran (SP1822) with two long chains has been found previously. We have studied another possibility using LB films of 1′-octadecyl-3′,3′-dimethyl-6-nitro-8-methoxy- spiro[2H-1-benzopyran-2,2′-indoline] (SP1801). SP1801 at the air-water interface gave a monolayer which showed the photomerocyanine form. The LB film of the compound returned to the spiropyran form in the dark. The LB film of the hetero structure with SP1801 and stearic acid, however, turned to J aggregates from the photomerocyanine form spontaneously in the dark. The absorption of the J aggregates was a sharp and intense band, and the half-decay period in the dark was 104 times longer than that of conventional spiropyrans. SP1801, in addition to SP1822, is suggested as a candidate for a multifrequency optical memory system with several J-aggregated photochromic compounds having different sharp absorption bands."
+"In the mixed Langmuir−Blodgett films of a cyanine dye and an azobenzene derivative, J-aggregate formation of the cyanine proceeded with the reversible photoisomerization of the azobenzene. AFM observations revealed that the J-aggregate formation was accompanied by transformation of the two-dimensional film structure into a three-dimensional one with a number of cone-shaped structures protruding from the surface."
+"We found that the in-plane molecular orientation could be controlled by the successive irradiation of a Langmuir-Blodgett film of photochromic J aggregates by a linearly polarized visible laser and unpolarized UV light. The dynamics of the formation of anisotropic molecular orientation was studied by the measurement of changes in the polarized absorption spectra and the microscopic observation of the film structure."
+"Z-;-(1-hexadecyl-4-pyridinium)-α-cyano-4-styryldicyanomethanide (C16H33P3CNQ) and the quinolinium analogue, Z-ß-(1-hexadecyl-4-quinolinium)-α-cyano-4-styryldicyanomethanide (C16H33Q3CNQ), are photochromic. Their Langmuir-Blodgett (LB) films have narrow, switchable, charge transfer bands at 495 nm and 565 nm respectively with halfwidths at half-maximum of 27 and 22 nm and absorbances of 0.020 monolayer−1. At wavelengths which correspond to the absorption maxima there is little overlap of the bands and thus they are suitable for use in a multifrequency optical memory. The aligned LB films also exhibit second harmonic generation and have promising non-linear optical properties."
+"The possibility of studying the photochromic reaction of some benzoindilino-spiropyrans in the solid state was investigated utilizing the Langmuir-Blodgett technique. The two compounds studied were transferred onto calcium fluoride supports either in mixed or in single-component films so that an IR investigation could be undertaken. Temporary negative photochromism could be induced in the transferred spiropyrans by the in situ formation of their merocyanine hydrochloride salts on the supporting substrates. Changes observed in the spectra after either chemical or light treatments were associated with structural changes and possible reorientation of the molecules in the organic films."
+"An optical storage technique based on the characteristic absorption bands of J aggregates of organic dyes is reported. The information is written by disordering the regular structures of cyanine dye J aggregates with a laser beam. This technique gives high recording sensitivity, and the disordered dye molecules can be made to reform the J aggregate, which indicates that the recording process is reversible. The J aggregates of cyanine dyes were formed by incorporating them in Langmuir–Blodgett (LB) films. The advantages of the narrow absorption bands of J aggregates and of the controlled multilayer forming capability of LB films were combined to demonstrate multiple wavelength optical recording using two recording layers."
+"A single monolayer of amphiphilic spiropyran was transferred on solid substrates using the Langmuir–Blodgett technique. Two types of circular domains were observed in the LB films: the larger domains with a diameter of 3–4 μm and the smaller ones with a diameter of 1 μm. The morphology changed depending on the concentration of the spreading solution, the subphase temperature and the spreading solvent. On irradiation with UV light, the spiropyran photoisomerized to merocyanine, followed by the J-aggregate formation of the merocyanine. Flower-like three-dimensional structures formed on the top of the larger domains accompanied by the J-aggregate formation. These structures developed until most of the molecules in the affected domains were transported to the structures."
+"Fabrication and femtosecond nonlinear optical response of Langmuir−Blodgett (LB) films with two-dimensional J-aggregates are described. Single-layer LB-films were deposited on glass substrates from mono-molecular layers of squarylium dye J-aggregates at an air−water interface (Langmuir film). To obtain LB-films containing J-aggregates, deposition of the Langmuir film with compression slightly in excess of that required for monolayer occupation was necessary. Coating the surface of the LB-films with a glassy perfluorocarbon polymer soon after deposition was effective in enhancing the formation of J-aggregates and stabilizing their structures. The LB-films of squarylium dye J-aggregates exhibit a single J-band at 783 nm with an extremely large absorbance of 0.2/monolayer, which is comparable to that of the Langmuir films. The morphology of J-aggregates in the LB-films was characterized by transmission images obtained using a near-field scanning optical microscope (NSOM) at a resonant wavelength of 780 nm. The LB-films were comprised of randomly polarized two-dimensional domains in which transition moments of J-aggregates were oriented in a single direction on a sub-μm scale. Ultrafast nonlinear optical responses were characterized by means of resonant pump−probe measurements. The observed low absorption-saturation energy (3.4 μJ/cm2·pulse) and ultrafast relaxation (time-constant of 200 fs) are indicative of delocalized excited states within highly organized structures of the squarylium dye J-aggregates in the LB-film which preserves the two-dimensional mono-molecular layer structures initially formed in the Langmuir films. Stable, solid-substrate-fixed, two-dimensional monolayers thus fabricated are promising for the realization of ultrafast planar all-optical switching devices."
+"The structures and photoreactions of the Langmuir and LB films of an amphiphilic spiropyran, 1',3'-dihydro-3',3'-dimethyl-6-nitro-1'-octadecyl-8-(docosanoyloxymethyl)spiro[2H-1-benzopyran-2,2'-(2H)-indole] (SP) are investigated. A chloroform solution of SP at a concentration of 0.1 mM is spread on the water surface. When the Langmuir film of SP is compressed on a subphase at 30 °C and a phase transition takes place, the monolayer changes into a mosaic structure where bilayer domains are buried in the monolayer. When the Langmuir films are illuminated with UV light, SP is isomerized to merocyanine (MC). J-aggregates of MC are formed at high temperatures and at high surface pressures where the bilayer domains are formed. The Langmuir films of SP are transferred as LB films onto solid substrates at 30 °C. The LB films consist of the bilayer domains with a diameter of 10 to 20 μm and a height of 4 to 5 nm. Three-dimensional structures are present in almost all the bilayer domains. Room-temperature illumination of the LB films with UV light produces the J-aggregation of MC with the development of dendritic structures starting from the three-dimensional structures in the domains. These dendrites consist of the J-aggregates. Molecules are aligned radially in the dendrites. When the LB film is illuminated at 7 °C, the J-aggregation of MC does not proceed. All these results indicate that the criteria of the J-aggregation of MC in the Langmuir and LB films are the presence of the bilayer domains and the nucleation sites with the mobility of the molecules large enough for the morphological change necessary for the J-aggregation."
+"Abstract The optical properties of monomolecular layers at an air–water interface and also of Langmuir–Blodgett (LB) films of several photochromic spiropyrans with a single hydrophobic long chain and either a hydroxyl or a hydroxymethyl group have been investigated. Changes in the optical spectra of these films were induced by either UV irradiation or heating. UV-visible, and IR absorption spectra showed that spiropyran SP145 formed J-aggregates and SP147 formed H-aggregates. The half-decay period of the J-aggregate to the spiropyran (SP) form was longer than that of the colored monomeric photomerocyanine (PMC) to the SP form. It was concluded that hydrogen bonding between neighboring colored PMC molecules via hydroxyl, hydroxymethyl, and nitro groups stabilizes the aggregate state."
+"Langmuir monolayers of an amphiphilic spiropyran, 1′,3′-dihydro-3′,3′-dimethyl-6-nitro-1′-octadecyl-8-docosanoyloxymethylspiro[1-benzopyran-2,2′-indole] (SP1822) on pure water at 30 °C was investigated by measurements of surface pressure–area (π–A) isotherms and Brewster angle microscopy (BAM). The π–A isotherm shows a phase transition at 7.5 mN m−1. The BAM image reveals drastic morphological changes accompanying the phase transition. Many circular domains appear on uniform monolayers. Atomic force microscopy (AFM) images of as-deposited Langmuir–Blodgett (LB) films suggest that the circular domains consist of bilayers. In addition, monolayers are transformed into bilayers during deposition, which result in the formation of further larger circular domains. Furthermore, the relationship between photochemical property and morphology in the SP1822 LB films was characterized by UV-visible spectroscopy and AFM. We have demonstrated that whether J-aggregates are formed upon irradiation with UV light at room temperature is strongly dependent on the morphology of the SP1822 LB films before irradiation."
+"Abstract An indolinospiropyran possessing one long alkyl chain on the nitrogen atom of the indoline moiety and two nitro groups on the benzopyran ring, exhibiting negative photochromism in various organic solvents, showed negative photochromism in a Langmuir–Blodgett film. The change in the surface appearance was observed by atomic force microscopy after the visible light irradiation."
+"The aggregate formation was studied for Langmuir–Blodgett films of a spiropyran 5Me-SP1822 (1′-octadecyl-3′,3′-dimethyl-5′-methyl-6-nitro-8-(docosanoyloxymethyl)spiro[2H-1-benzopyran-2,2′-indoline]). Both a J-aggregate (λmax = 605 nm) and an H-aggregate (λmax = 493 nm) were formed, depending on the nature of the matrix molecule and the annealing temperature. The compound, having a substituent at the 5′-position, seems to prefer H-aggregation to J-aggregation by heat treatment at elevated temperatures. The molecular orientation in these aggregates was evaluated via analysis of the shifts in the first two absorption bands appearing after formation of the aggregates. Slip angles of 20—30° and 70—80° between the chromophore’s transition moment and the center-to-center line of the molecules, were found for the J- and H-aggregates, respectively, and a tilt angle of 20—30° between the chromophore’s plane and the film surface were obtained using the transition density model. These are in line with the results of ..."
+""
+""
+"ADVERTISEMENT RETURN TO ISSUEPREVNoteAggregated Structures in Langmuir−Blodgett Films of Pyridinium−Dicyanomethanide DyesRiccardo Ricceri, Daniela Grando, Alessandro Abbotto, Antonio Facchetti, Giorgio A. Pagani, and Gabriella GabrielliView Author Information Dipartimento di Chimica, Universitá di Firenze, via G. Capponi 9, I-50121 Firenze, Italy, IROE-CNR, via Panciatichi, I-50100 Firenze, Italy, and Dipartimento di Scienza dei Materiali, Universitá degli Studi di Milano, via Emanueli 15, I-20126 Milano, Italy Cite this: Langmuir 1997, 13, 21, 5787–5790Publication Date (Web):October 15, 1997Publication History Received22 May 1997Revised21 July 1997Published online15 October 1997Published inissue 1 October 1997https://pubs.acs.org/doi/10.1021/la970530hhttps://doi.org/10.1021/la970530hbrief-reportACS PublicationsCopyright © 1997 American Chemical SocietyRequest reuse permissionsArticle Views97Altmetric-Citations12LEARN ABOUT THESE METRICSArticle Views are the COUNTER-compliant sum of full text article downloads since November 2008 (both PDF and HTML) across all institutions and individuals. These metrics are regularly updated to reflect usage leading up to the last few days.Citations are the number of other articles citing this article, calculated by Crossref and updated daily. Find more information about Crossref citation counts.The Altmetric Attention Score is a quantitative measure of the attention that a research article has received online. Clicking on the donut icon will load a page at altmetric.com with additional details about the score and the social media presence for the given article. Find more information on the Altmetric Attention Score and how the score is calculated. Share Add toView InAdd Full Text with ReferenceAdd Description ExportRISCitationCitation and abstractCitation and referencesMore Options Share onFacebookTwitterWechatLinked InRedditEmail Other access optionsGet e-Alertsclose SUBJECTS:Absorption,Crystal structure,Molecular structure,Molecules,Monomers Get e-Alerts"
+"The effect of temperature on photochromic reaction of amphiphilic spiropyran, 1',3'-dihydro-3',3'-dimethyl-6-nitro-1'-octadecyl-8-(docosanoyloxyme thyl)spiro[2H-1-benzopyran-2,2'-(2H)-indole] (SP1822), was investigated in single-component LB films. The morphological changes accompanying the photochromic reaction of SP1822 in the LB films were measured by atomic force microscopy (AFM) and scanning near-field optical microscopy (SNOM). Many circular domains with a width of 10−20 μm and a height of 4−5 nm were observed in as-deposited LB films before irradiation. Surface structures on circular domain did not change accompanying isomerization of SP1822 to open-colored photomerocyanine (PMC) on irradiation with UV light at room temperature, but the SNOM image reveals that the isomerization to PMC occurs into the circular domains. After reaching the photostationary state of PMC, further addition of heat at 50 °C during UV irradiation induces J-aggregate of PMC. The AFM shows that many cone-shaped structures with average width of 0.6 μm and average height of 40 nm grow up from the circular domain. We have clarified that the heating of the sample at 50 °C during UV irradiation is necessary for the PMC to form J-aggregates."
+"In this study, surface plasmon resonance studies of Langmuir-Blodgett multilayers have been used to characterize an optically highly absorbing zwitterionic material which would be difficult to otherwise analyse. By fitting reflectivity data with Fresnel theory for a range of wavelengths it has been possible to obtain the real and imaginary parts of the assumed-isotropic dielectric optical permittivity over the visible part of the spectrum. These results show an asymmetric resonance peak which may be interpreted as being a composite of two resonances, one associated with an intermolecular dipole transition and one with an intramolecular dipole."
+"We have studied the aggregation control of the novel spiropyran (MSP1822) with a methoxy group at 5′ position and two long alkyl chains, in Langmuir-Blodgett (LB) films. MSP1822 shows two types of aggregation behavior which indicate contrary spectrum peak shifts. MSP1822 forms H-aggregate (side-by-side interaction) in a LB film mixed with octadecane. On the contrary, MSP1822 forms J-like aggregate (head-to-tail interaction) in Z-type LB films mixed with methyl stearate. These aggregates showed markedly high stability without fading compared with the monomer."
+""
+"Reversible morphological changes occur with photoisomerization of azobenzene in Langmuir-Blodgett (LB) films complexed with polycations, which contradicts an implicit assumption of the concept of free volume that two-dimensional film structures are preserved during the photoisomerization. J-aggregates of chromophores are formed by two processes. The first process is "light-induced J-aggregation" in which photoisomerized molecules form J-aggregates. The other process is "triggered J-aggregation," in which photoisomerization of one of the components triggers J-aggregation of another chemical species in the mixed films. Both processes of J-aggregation are in many cases accompanied by large morphological changes of the films. However, LB films fabricated using processes under isobaric conditions do not change their morphology during light-induced J-aggregation and are patterned with J-aggregates using ultraviolet illumination through a photomask. Phase separation in mixed LB films gives rise to two-dimensional patterns, which are used to fabricate templates by using an amphiphilic silane-coupling agent as one of the components in the mixed LB films. Nanopatterns are also fabricated."
+"Mixed Langmuir–Blodgett films of Z-β-(1-hexadecyl-4-pyridinium)-α-cyano-4-styryldicyanomethanide (C16H33-P3CNQ) and Z-β-(1-hexadecyl-4-quinolinium)-α-cyano-4-styryldicyanomethanide (C16H33-Q3CNQ) exhibit a single charge-transfer band that may be tuned within the range 495 to 565 nm; the films are photochromic and exhibit second-harmonic generation."
+"J-aggregate formation was observed in single-layer Langmuir–Blodgett films of an amphiphilic spiropyran when they were irradiated with UV light at room temperature. We have revealed that tree-like structures with many branches are formed, accompanying the J-aggregate formation, which consist of a number of crystalline J-aggregates."
+"The light-harvesting function of the J-aggregate of the cyanine dye, N,N′-dioctadecyloxacyanine (Cy), in Langmuir–Blodgett (LB) monolayers containing the amphiphilic perylene derivative (Pe) as an energy acceptor was examined by varying the Cy:Pe molar ratio from 10:1 to 2000:1. A characteristic J-band considerably red-shifted from the corresponding monomer absorption band of Cy was intensely observed in the absorption spectra of the mixed Cy LB monolayers with Pe with the molar mixing ratios Cy:Pe=200:1, 500:1, 1000:1, and 2000:1. Although the contents of Pe in the mixed LB monolayers are such small fractions, the emission from excited Pe induced by energy transfer (ET) from photo-excited Cy was observed clearly. The highest sensitized emission intensity of Pe was observed on the mixed LB monolayer with the molar mixing ratio Cy:Pe=50:1 in which all excited energies of Cy were transferred to Pe. In this molar ratio, however, the ET from monomer or dimer Cy to Pe seemed to be dominant, and the antenna effect of Cy in this state is as low as ca. 50. In contrast, the antenna effect of J-aggregated Cy estimated for the mixed LB monolayers with low Pe ratios (Cy:Pe=500:1, 1000:1, and 2000:1) was such that ca. 250 molecules of Cy would harvest light for excitation of one Pe molecule. This can be attributed to the high rate of exciton migration in the J-aggregates, by which ET probability was increased."
+"The attenuated total reflection technique with a thin metal film tunnel barrier has been used to couple radiation into waveguides made of eicosanoic acid. Through the use of a pyramidal geometry and both TE and TM polarisation the full optical dielectric tensor of Langmuir-Blodgett multilayers of this material has been characterised for a range of deposition pressures. Results show that the mean molecular axis within the multilayers tilts over as the surface pressure used during film deposition is decreased."
+"Abstract J-aggregation of cyanine molecules was induced in two types of mixed LB films by the photoisomerization of azobenzene coexisting in the same LB films. Drastic morphological changes involving the formation of three-dimensional cone-shaped structures protruding from the film surfaces were observed accompanied with the J-aggregation. This means that the two-dimensional LB film structures exerted substantial modification by the photoisomerization."
+"We report on Langmuir−Blodgett (LB) characterization of 4-[5-(dicyanomethanidyl)thien-2-yl]-N-cetylpyridinium (C16H33−PDCNT). Surface pressure−area isotherms of monolayers were investigated at T = 291 K. LB films of Y- and Z-type were characterized by means of UV−vis and FTIR spectroscopies. The compound is photobleachable and undergoes a change in molecular structure in monolayer and in solution. The molecule strongly absorbs in the visible region due to a charge transfer band both in homogeneous solution and LB films. Depending upon dipping conditions, a sharp absorption band appears at about 422 nm that could be attributed to molecular aggregates, probably of H-type. Both the 422 nm band and the broad charge transfer band at longer wavelength are photobleachable, and the former could have potential applications for optical data storage. The molecule seems to possess a large second-order hyperpolarizability, and non-centrosymmetric Z-type LB films could have promising nonlinear optical properties."
+"Mixed Langmuir–Blodgett (LB) films of two novel thiophene-spaced N-alkylpyridinium malononitrile zwitterionic dyes have been prepared. The LB films present two sharp, non-overlapping charge-transfer absorption bands which can be selectively photobleached in a irreversible fashion. The former could have potential application in multifrequency optical data storage."
+"We fabricated the optical system of merocyanine dye (MD) using the Langmuir–Blodgett (LB) method with various mixing ratio and the number of layers to control its optical characteristic. The optical characteristic of MD LB films was evaluated by UV spectroscopy and their surface morphologies were also observed using atomic force microscope. The optical characteristics of MD LB film were controlled by mixing ratio and LB layer deposited, which includes the potential control of the performance of photo-electric devices. The optical characteristic and surface morphology were also observed when MD LB films were modified using UV irradiation or heat treatment. As a result, we obtained the quantitative optical characteristic by controlling the mixing ratio with archidic acid and LB layer deposited. Also, the mixing ratio dependent surface morphology was observed. The experimental results strongly suggest that high efficient photo-electric devices can be obtained by LB method and modified by second treatment such as UV irradiation, heat treatment, and nano-lithography."
+"Abstract Photochemical reactions of an amphiphilic spiropyran (SP) have been investigated in single-layer LB films. The SP LB films were prepared from a pure water subphase at 30°C. When these LB films were irradiated with UV light at room temperature, SP was converted into photomerocyanine (PMC), followed by the formation of J-aggregate of PMC. In situ AFM observations revealed the presence of large circular domains with diameters of 10–20 μm and height of 4–5 nm before irradiation. Irregularly-shaped structures were evident in the center of most of the domains. On irradiation with UV light, dendritic structures spread radially from the irregularly-shaped structures and developed within the domains. The morphological change was not observed in the domains without the irregularly-shaped structures."
+"Langmuir-Blodgett films, incorporating N-sulphopropyl substituted thiadcarbocyanine dyes with a fixed polymethine chain adsorbed on octadecylpyridinium monolayer, have been prepared. Dye mocules in Langmuir monolayers form J-aggregates, which structures depend on monolayer preparation conditions. The dyes also form mixed J-aggregates. The film structure has been studied by using X-ray small-angle diffraction and spectroscopy. It was shown, that optical anisotropy of J-aggregated dye films is related to the conditions of monolayer transfer onto solid supports."
+"An amphiphilic merocyanine dye (MC) having a carboxyl group was mixed with arachidic acid (C20) or octadecylamine (C18NH2). In the MC/C20 mixed Langmuir-Blodgett (LB) film (mixing ratio of 1:1), MC formed J-aggregates and irregularly-shaped domains were observed. The carboxyl groups of MC and C20 remained intact. On the other hand, in the MC/C18NH2 mixed LB films (mixing ratio of 1:1), MC was in the monomeric or dimeric states, and the surface of the film was very smooth. MC was deprotonated and C18NH2 was protonated, which strongly suggests the salt formation of the two components."
+"The second-order optical nonlinearity of was deduced from the Pockels response of mixed -arachidic acid Langmuir-Blodgett monolayers by using electro-optically modulated attenuated total reflection spectroscopy. We obtained a considerable second-order susceptibility for of (namely ) which is in agreement with that obtained from the measurement of second-harmonic generation and attributed to the electrical quadrupole and/or magnetic dipole contributions of molecules."
+"We report on Langmuir-Blodgett (LB) films characterization of 4-[5-dicyanomethanido)thien-2-y1]-N-(n-hexadecyl)pyridinium (C16H33-PDCNT), and 1-(N-(n-hexadecy]-4-pyridinio)-2-[5-(dicyanomethanido)thien-2-yl]ethene (C16H33-PDCNTE); LB films of the pure compounds and of the mixtures of the two compounds were prepared at 291 K: UV-vis investigation revealed the presence of photobleachable absorption bands, the ones at about 530 nm and 640 nm were due to charge transfer transitions of the monomer of C16H33-PDCNT and C16H33-PDCNTE, respectively; the sharp, photobleachable ones shifted to shorter wavelengths were due to H-aggregates of the two compounds. By changing the molar ratios of the two compounds in the mixtures and in other cases by annealing the LB films, the absorption maxima of the sharp, photobleachable bands due to H-aggregates could be tuned in the range 415–467 nm. These LB films are thus very promising in view of optical data storage applications."
+"Electrical properties for Langmuir-Blodgett (LB) films of spiropyran (SP) dyes (SP98 and SP1822) and their structure are investigated. SP dyes change from SP to photomerocyanine (PMC) forms as a result of UV irradiation. The UV-irradiated SP dyes change from PMC to SP forms again by visible irradiation or heat treatment. Thermally stimulated current (TSC) measurements are used to examine the electrical properties of the SP LB films. The TSC for the SP LB films is found to be due to the dipolar depolarization. The TSC of the SP98 LB films strongly depends on their structure, and exhibits reversible changes caused by the isomerization. The TSC for the SP1822 LB films, however, does not change clearly as a result of the isomerization. The TSC due to the dipolar depolarization is thought to depend on how the molecules are packed in the LB films. The microscopic behaviour of the molecule may be influenced by its surrounding space."
+"Langmuir-Blodgett (LB) multilayers prepared from methyl-acylamino-azobenzene derivatives have been investigated. Reversible transl cis photolsomerisation of N,N′-dicyclohexyl-N-4-[4-(methyl-palmitoylamino)phenylazo]benzoyl urea in LB films has been observed on alternate irradiation with UV (360 nm) and visible (450 nm) light. Anisotropy in the electrical conductivity of LB multilayers was observed. The electrical conductivity through the sample (bulk conductivity) was of the order of 10−10 S cm−1. In the case of in-plane samples the conductivity is higher by several orders. The charge carrier trapping states in the energy gap of LB multilayers were deduced."
+""
+"Abstract Scanning Maxwell stress Microscopy (SMM) which is a type of scanning probe microscopy designed to image microscopic electrical properties, have been applied to study the local surface potential distribution in photochromic spiropy ran dye Langmuir-Blodgett (LB) films. Using linear dependence between effective dipole moment and surface potential, structural change has been studied during photoisomerization."
+""
+"An ionic liquid crystalline polymer (ILCP) with photoactive azobenzene pendant groups was deposited as a multilayered Langmuir-Blodgett (LB) film. The layer structure and the orientation of the azobenzene pendant groups in the LB film were drastically changed upon irradiation with UV and visible lights. The layer order in the LB film was completely disturbed by UV light irradiation, and rebuild by visible light irradiation. Homeotropic molecular alignment with the consequent double layered structure is consistent with that of a smectic A liquid crystalline phase of ILCP."
+"Langmuir films of a side-chain ferroelectric liquid crystalline polysiloxane of 4-(10-undecen-1-oyloxy)-4′-(s)-2-methybutoxybiphonyl (P(III)) and its monomer 4-(10-undecen-1-oyloxy)-4′-(s)-2-methybutoxybiphonyl (M(III)) were transferred successfully at surface pressures of 11 and 8 mN m− 1 onto solid substrates, respectively. The π–A isotherms of P(III) and M(III) have shown that they have different properties on the air/water interface. The monolayer film on the air/water interface of M(III) shows a clear orientation transition while that of P(III) does not. Infrared (IR) transmission and reflection–absorption spectra of Langmuir–Blodgett (LB) films of P(III) and M(III) indicate that the long axis of the chromophoric part of P(III) is almost perpendicular to the substrate surface while that of M(III) is tilted with respect to the substrate normal. The alkyl parts of both P(III) and M(III) are tilted considerably from the substrate normal. It also indicated from the IR spectra of the LB films that the liquid crystalline molecules of P(III) and M(III) are highly ordered and oriented in the monolayer and multilayer LB films. Temperature-dependent IR experiments show that the alkyl chains have anisotropic property in both P(III) and M(III). This may be due to the influence from the chiral groups of the molecules rather than from the substrates, and the side chains of P(III) play an important role in enhancing the anisotropic property."
+""
+"The organic/inorganic hybrid Langmuir–Blodgett (LB) films were obtained by the compact organization of poly(1,2-dihydro-2,2,4-trimethyl)quinoline (PQ), octadecylamine (ODA) and rare earth-substituted heteropolymolybdates. They were characterized by surface pressure–area (π–A) isotherms, absorption spectra, fluorescence spectra, atomic force microscope (AFM) and scanning tunneling microscopy (STM). The atomic force microscope revealed a granular surface texture of nanosized rare earth-substituted heteropolymolybdate. The scanning tunneling microscopy indicated that the hybrid LB films containing rare earth-substituted heteropolymolybdates had the better electrical conductivity than LB film of PQ/ODA."
+"ADVERTISEMENT RETURN TO ISSUEPREVArticleNEXTMonomolecular and Langmuir-Blodgett film behavior and the spectral properties of films of poly-9-((butoxycarbonyl)methyl)urethane diacetyleneJ. E. Biegajski and D. A. CadenheadCite this: Macromolecules 1991, 24, 12, 3627–3629Publication Date (Print):June 1, 1991Publication History Published online1 May 2002Published inissue 1 June 1991https://pubs.acs.org/doi/10.1021/ma00012a025https://doi.org/10.1021/ma00012a025research-articleACS PublicationsRequest reuse permissionsArticle Views48Altmetric-Citations2LEARN ABOUT THESE METRICSArticle Views are the COUNTER-compliant sum of full text article downloads since November 2008 (both PDF and HTML) across all institutions and individuals. These metrics are regularly updated to reflect usage leading up to the last few days.Citations are the number of other articles citing this article, calculated by Crossref and updated daily. Find more information about Crossref citation counts.The Altmetric Attention Score is a quantitative measure of the attention that a research article has received online. Clicking on the donut icon will load a page at altmetric.com with additional details about the score and the social media presence for the given article. Find more information on the Altmetric Attention Score and how the score is calculated. Share Add toView InAdd Full Text with ReferenceAdd Description ExportRISCitationCitation and abstractCitation and referencesMore Options Share onFacebookTwitterWechatLinked InRedditEmail Other access optionsGet e-Alertsclose Get e-Alerts"
+"The amount of Pt deposited on a glassy carbon (GC) electrode can be controlled precisely by electrochemical reduction of PtCl62− incorporated as a counter ion in the Langmuir–Blodgett (LB) film coated on the electrode surface. Electrocatalysis of the resulting modified electrode for molecular oxygen reduction is also described."
+"\nconformation defects such as kink bonds are considered. The role of the space"
+"Electroconducting polymeric organic materials have application as sensitive components in chemical sensors. Indeed their reactions with some gases induce a variation of the electronic conductivity. We have prepared a thin film of polypyrrole by modifying a preformed Langmuir-Blodgett film by exposure to gaseous reactants and then we have tested it in organic vapours. For methanol and ethanol, the vapours caused an increase in the resistance of the film, which was rapidly reversed in air at room temperature. For acetone and ethyl acetate the response was smaller than for alcohols but however stable and reproducible. The exposure to toluene gave little resistance changes."
+"The injury of the renal epithelial cell membrane can promote the nucleation of nascent crystals, as well as adhesion of crystals on it. It thus accelerates the formation of renal calculi. In this paper, the defective Langmuir-Blodgett (LB) films were used as a model system to simulate the injured renal epithelial cell membrane. The microcosmic structure of the defective LB film and the molecular mechanism of the effect of this film on nucleation, growth, deposited patterns and adhesion of calcium oxalate monohydrate (COM) were investigated. The circular defective domains were formed in dipalmitoylphosphatidylcholine (DPPC) LB film after the film was treated by potassium oxalate. These domains could induce ring-shaped patterns of COM crystals. In comparison, the LB film without pretreatment by potassium oxalate only induced random growth of hexagonal COM crystals. As the crystallization time increased, the size of COM crystals in the patterns increased, the crystal patterns changed from empty circles to solid circles, and the number of the circular patterns with small size (5-20 μm) increased. The results would shed light on the molecular mechanism of urolithiasis induced by injury of the renal epithelial membrane at the molecular and supramolecular level."
+""
+"反応性高分子ラングミュア・ブロジェット (LB) 膜を作製し, より効果的かつ簡便に高分子薄膜に機能団を導入する方法を報告する. 反応性基として側鎖端末にアミノ基を有するN一ドデシルアクリルアミド共重合体は水面上で安定な単分子膜を形成し, LB法により固体基板上に積層された. このLB膜の構造は表面圧-面積等温線, X線回折 (XRD), フーリエ変換赤外分光法 (FT-IR) によって調査された. LB膜中のアミノ基の反応性は蛍光プローブとしてフルオレセインイソチオシアネート (HTC) を用いて詳細に検討した. 蛍光スペクトル測定から, LB膜中のアミノ基とFITCのイソチオシアニル基の反応は30分で完了し, LB膜内でも高い反応性を保持していることが実証された. また, これらの化学結合の形成はFT-IRにて確認した. HTCで修飾されたLB膜の発光強度を利用してpHセンサー能を調査したところ, pH5～9の間でよい応答性を示した. 同様の発光挙動は蛍光顕微鏡でも観察され, 視覚的にもそのセンサー能を確認することができた."
+""
+""
+""
+"Abstract Films of soluble collagen extracted from rat‐tail tendon were studied at the solid–solution interface, and the surface energy of the films was evaluated. The films transferred onto solid substrates using the Langmuir–Blodgett film (LB film) technique were characterized using Fourier transform IR attenuated total reflectance spectroscopy and atomic force microscopy. The properties of the protein in contact with different structure modifiers like basic chromium sulfate (BCS) and formaldehyde (HCHO) were analyzed for the effect of various tanning agents on the protein structure. The thermal properties of the films were studied using differential scanning calorimetry. The results show that the film of collagen treated with BCS exhibits an increase in the peak temperature and enthalpy changes compared to the pure collagen as well as the protein with HCHO. These differences are attributed to the changes in the crosslinks arising from both coordinate–covalent and covalent interactions, respectively. The atomic force micrographs showed an increase in order for the collagen film with BCS compared to the HCHO treated analogue. A similar trend is seen in the surface energy parameters of the protein films on solid surfaces on reacting with BCS and HCHO, suggesting a molecular level ordering process in collagen assemblies. © 2004 Wiley Periodicals, Inc. J Polym Sci Part B: Polym Phys 42: 3859–3865, 2004"
+"Oriented poly(2, 5-dimethoxy-p-phenylenevinylene), MOPPV, thin films were prepared by the Langmuir-Blodgett (LB) technique. In the MOPPV LB films, π-conjugated chains were biaxicially oriented. The π-conjugated chains were oriented along the dipping direction in addition to planar orientation. Further, mean π-conjugation length in the MOPPV LB film was extended in comparison with that in a conventional spin-coated MOPPV film which was obtained from an organic-solvent-soluble precursor polymer. Owing to the orientation of π-conjugated chains, the anisotropy of third-order susceptibility was observed in the MOPPV LB film; χ(3)|| = 4.5 × 10−10 esu χ(3)|| = 1.0 × 10−10 esu at fundamental wavelength of 1064 nm (two photon resonance region), and χ(3)⊥= 3-2 × 10−10 esu and χ(3)|| = 1.8 × 10−10 esu at fundamental wavelength of 1600 nm (three photon resonance region), where χ(3)|| and χ(3)⊥ are third-order susceptibilities parallel and perpendicular to the dipping direction, respectively."
+"Chiropticenes are a novel class of single-molecule chiroptical dipole switches. The fundamental mechanism of the Chiropticene switch is that the combination of light and electric field cause both the chirality and the dipole direction to be simultaneously reversed. The information stored in the Chiropticenes can be read nondestructively with circularly polarized light, which ensures erase-read- write capability. These molecular switches are exceptional in that they have the potential to be exploited on both the molecular and macroscopic scale. The Chiropticene switch has been designed for incorporation into an optical data storage device that will be faster and have a higher capacity than the currently available technology. The organic Chiropticene is molecularly engineered to fulfill all the requirements of a switching device in electronic applications. Its modular structure is able to provide an extraordinary capacity to chemically tune the properties of the switch molecule. The synthesis of the Chiropticenes and characterization of their optical properties will be presented. The design of nanodevice architectures based on Langmuir-Blodgett films and/or self-assembled monolayer swill also be presented."
+"Abstract This paper reports on the synthesis of a microgel star amphiphile and on the behaviour of its monolayers both on the water surface and on solid substrates. On the water surface, the monolayer surface pressure relaxes at constant area, leading to a “duckweed”‐type structure. The hydrophilic groups play an important role in this process. On solid substrates, Langmuir‐Blodgett films can be fabricated from it with unit transfer ratio and good laminar structure."
+"This work was supported by the National Science Foundation of China (59703001). PS-PEO diblock copolymer and PEOX were synthesized. High ordered mono- and multi-layers of these materials could be transferred onto the single crystal silicon chips by the vertical dipping method using LB film (Langmuir-Blodgett film) techniques. The LB films surface pressure π -A isotherms were given. The topography and microtribological properties were studied using AFM/FFM(Atomic Force Microscope/Friction Force Microscope). The experimental results show that LB films of PS-PEO and PEOX have been well prepared and these mono- and multilayer films are high-ordered. Because of the good micro-tribological properties, further research of these materials on microtribology is essential."
+#v "title" s
+"J-aggregation of photochromic spiropyran in Langmuir-Blodgett films"
+"Controls of photochromic reactions in spiropyran Langmuir-Blodgett films"
+"Photoinduced Self-Organization in Langmuir−Blodgett Films"
+"Light-induced molecular orientation in Langmuir-Blodgett films of spiropyran"
+"Photochromic and non-linear optical properties of C16H33P3CNQ and C16H33Q3CNQ Langmuir-Blodgett films"
+"Positive and negative photochromism in thin organic Langmuir-Blodgett films"
+"Multiple wavelength optical recording using cyanine dye <i>J</i> aggregates in Langmuir–Blodgett films"
+"J-aggregate formation of amphiphilic merocyanine in Langmuir–Blodgett films"
+"Fabrication and Femtosecond Optical Response of Langmuir−Blodgett Films with Two-Dimensional J-Aggregates"
+"Light-Induced J-Aggregation of Merocyanine in Langmuir and Langmuir−Blodgett Films"
+"Aggregates in Langmuir–Blodgett Films of Spiropyrans Having Hydroxyl or Hydroxymethyl Group"
+"Surface and photochemical properties of Langmuir monolayer and Langmuir–Blodgett films of a spiropyran derivative"
+"Negative Photochromism of a Spiropyran in a Langmuir–Blodgett Film"
+"Optical Properties and Molecular Orientation of Aggregates in Langmuir–Blodgett Films of a Long-Chain Spiropyran"
+"J-aggregate formation of dyes in Langmuir–Blodgett films"
+"Rectifying behaviors of Langmuir–Blodgett films of an asymmetrically substituted phthalocyanine"
+"Aggregated Structures in Langmuir−Blodgett Films of Pyridinium−Dicyanomethanide Dyes"
+"Temperature Effect on Photochromic Reaction in Langmuir−Blodgett Films of Amphiphilic Spiropyran and Their Morphological Changes"
+"Surface plasmon polariton studies of highly absorbing Langmuir-Blodgett films"
+"Aggregation control of photochromic spiropyrans in Langmuir-Blodgett films"
+"Light-induced J-aggregation in mixed Langmuir–Blodgett films of selenium-containing cyanine and azobenzene"
+"Photoreactions and lateral patterning in Langmuir and Langmuir–Blodgett films"
+"Fine tuning of the photochromic absorption band of heteromolecular Langmuir–Blodgett films of zwitterionic donor-π-acceptor molecules"
+"J-aggregate Formation in Single-Layer Amphiphilic Spiropyran Langmuir–Blodgett Films"
+"Efficient energy transfer in Langmuir–Blodgett films containing J-aggregated antenna cyanine dye"
+"Guided wave study of langmuir-blodgett films of eicosanoic acid"
+"Light-Induced Structural Change of Langmuir-Blodgett Films"
+"Langmuir−Blodgett Films of a New Pyridinium−Dicyanomethanide Dye and Their Potential Optical Applications"
+"Information storage based on photochemical effects in mixed Langmuir–Blodgett films"
+"The spectroscopic and morphological behavior of merocyanine dye Langmuir–Blodgett films"
+"J-Aggregate Formation and Morphological Change on UV Irradiation of the Langmuir-Blodgett Films of Spiropyran"
+"J-aggregates of thiadicarbocyanine dyes with fixed polymethine chain incorporated in Langmuir-Blodgett films"
+"Control of In-Plane Orientation of Merocyanine Dye in Mixed Langmuir-Blodgett Films Using Salt Formation with Matrix"
+"Electro-optical characterizations of the large second-order optical nonlinearity of Langmuir-Blodgett films"
+"Langmuir–Blodgett films of pyridinium-dicyanomethanide dyes mixtures with photobleachable absorption bands"
+"Ordered structure and electrical properties in spiropyran Langmuir-Blodgett films"
+"Photosensitivity and electrical properties of some azobenzene derivatives in Langmuir-Blodgett films"
+"Structuring of tricarbocyanine dye molecules in Langmuir-Blodgett films"
+"Structural Investigation of Spiropyran Containing Langmuir-Blodgett Films using Scanning Probe Microscope Technique"
+"Triggered J-aggregation in Mixed Langmuir–Blodgett Films of Amphiphilic Spiropyran Having a Methoxy Group at the 5’ Position and an Azobenzene Derivative"
+"Langmuir–Blodgett films of a new hemicyanine dye"
+"Control of Photoreaction of Amphiphilic Spiropyran/<i>n</i>-Alkane Langmuir and Langmuir−Blodgett Films Using the Phase Transition of <i>n</i>-Alkane"
+"Critical edge studies of highly absorbing Langmuir-Blodgett films"
+"Formation of Metal-free J-aggregates in Merocyanine/Spiropyran Mixed Langmuir-Blodgett Film"
+"Improvement of the properties of a functional organized thin film by the introduction of nanoparticles part I. Retardation of photo-isomerization rate of a spiropyran-containing Langmuir-Blodgett film by the incorporation of SiO2 nanoparticles"
+"A First Study of Langmuir−Blodgett Films of 1-[<i>N</i>-(<i>n</i>-Hexadecyl)-4-pyridinio]-2-[5-(dicyano- methanidyl)thien-2-yl]ethene"
+"Isomerization and changes of the properties of spiropyrans by mechanical stress: advances and outlook"
+"Photoreactions in Langmuir-Blodgett Films"
+"Effect of Fabrication Conditions on the Structures and Photoreactions of Langmuir-Blodgett Films of Amphiphilic Spiropyran"
+"AM1/CI study of a molecular rectifier"
+"Study of lateral electron transfer in Langmuir–Blodgett films containing cyanine and viologen amphiphiles"
+"Electronic structure of donor-spacer-acceptor molecules of potential interest for molecular electronics. IV. Geometry and device properties of P3CNQ and Q3CNQ"
+"The Quest for D-σ-A Unimolecular Rectifiers and Related Topics in Molecular Electronics"
+"Bound–bound transition in a field with a nonzero average cube in a molecule in a Langmuir–Blodgett film"
+"Critical edge studies of highly absorbing anisotropic films"
+"Analysis of Film Characteristics of Long Alkyl Chain-Contained 6-Nitro Spiropyran Fabricated by LB and Spin-Coating Method"
+"Second harmonic generation from LB films of C16H33-BT3CNQ"
+"Multifrequency Photochromic Memory Materials"
+"Redox reactions on modified bilayer lipid membranes for biosensing device"
+#v "wos_id" s
+"https://openalex.org/W2091136114"
+"https://openalex.org/W1968753649"
+"https://openalex.org/W1970467266"
+"https://openalex.org/W1980298087"
+"https://openalex.org/W1984672678"
+"https://openalex.org/W2041073419"
+"https://openalex.org/W2032265806"
+"https://openalex.org/W2062183313"
+"https://openalex.org/W2033744340"
+"https://openalex.org/W2017755744"
+"https://openalex.org/W2010061010"
+"https://openalex.org/W2036290034"
+"https://openalex.org/W2038310697"
+"https://openalex.org/W2041789505"
+"https://openalex.org/W2169118116"
+"https://openalex.org/W2027645742"
+"https://openalex.org/W1971037517"
+"https://openalex.org/W2087154887"
+"https://openalex.org/W2017569511"
+"https://openalex.org/W2053029206"
+"https://openalex.org/W2048540187"
+"https://openalex.org/W1981220085"
+"https://openalex.org/W2003474359"
+"https://openalex.org/W2017762417"
+"https://openalex.org/W2089744962"
+"https://openalex.org/W2011866304"
+"https://openalex.org/W1995782221"
+"https://openalex.org/W1977285127"
+"https://openalex.org/W2070923608"
+"https://openalex.org/W1989075058"
+"https://openalex.org/W1987619733"
+"https://openalex.org/W1973731556"
+"https://openalex.org/W2077827835"
+"https://openalex.org/W2093615227"
+"https://openalex.org/W1987430767"
+"https://openalex.org/W2071032550"
+"https://openalex.org/W2068947199"
+"https://openalex.org/W1997233428"
+"https://openalex.org/W2028671115"
+"https://openalex.org/W2071483749"
+"https://openalex.org/W2012250890"
+"https://openalex.org/W2078035922"
+"https://openalex.org/W2094825925"
+"https://openalex.org/W1996923873"
+"https://openalex.org/W2054527276"
+"https://openalex.org/W2001418764"
+"https://openalex.org/W3134262385"
+"https://openalex.org/W2317842489"
+"https://openalex.org/W3010675071"
+"https://openalex.org/W1979346907"
+"https://openalex.org/W2023760710"
+"https://openalex.org/W2006645554"
+"https://openalex.org/W2489128315"
+"https://openalex.org/W2074324885"
+"https://openalex.org/W1983039185"
+"https://openalex.org/W2012259752"
+"https://openalex.org/W2031275340"
+"https://openalex.org/W57040071"
+"https://openalex.org/W2057679237"

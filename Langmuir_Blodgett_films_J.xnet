@@ -1,0 +1,266 @@
+#vertices 31
+"Chromatic Phase of Polydiacetylene Langmuir−Blodgett Film"
+"Effects of molecular arrangement on polymerization reactions in Langmuir-Blodgett films"
+"Polymerizabilities of amphiphilic monomers with controlled arrangements in Langmuir-Blodgett films"
+"Molecular Packings−Photopolymerization Behavior Relationship of Diacetylene Langmuir−Blodgett Films"
+"Photo-induced structural disorder in Langmuir-Blodgett films of polydiacetylenes"
+"Molecular arrangement and polymerizability of amino acid derivatives and dienoic acid in Langmuir-Blodgett films"
+"UV photoelectron spectroscopic study of the photopolymerization of long-chain diacetylene monocarboxylic acid in Langmuir—Blodgett films"
+"Control of polymerization reactions and polymer structures through the molecular orientation of amphiphilic monomers in Langmuir-Blodgett films"
+"Absorption properties and structure changes caused by pre-annealing in polydiacetylene Langmuir-Blodgett films"
+"Photopolymerization of long-chain diacetylene monocarboxylic acid in Langmuir-Blodgett films studied by UV photoelectron spectroscopy and X-ray absorption near-edge structure"
+"Structural control and characterization in mixed and alternate Langmuir-Blodgett films of simple long-chain compounds"
+"Chromatic Phase and Molecular Packings of Polydiacetylene Langmuir-Blodgett Films"
+"Nanoscale Two-Photon Induced Polymerization of Diacetylene Langmuir−Blodgett Film by Near-Field Photoirradiation"
+"Molecular arrangement and polycondensation of octadecyl esters of aromatic amino acids in Langmuir-Blodgett films"
+"Photopolymerization of a ω-tricosenoyl derivative of β-cyclodextrin in Langmuir-Blodgett films"
+"Anisotropic Polymerization of a Long-Chain Diacetylene Derivative Langmuir−Blodgett Film on a Step-Bunched SiO<sub>2</sub>/Si Surface"
+"Changes in the near‐edge X‐ray absorption fine structure spectra of long‐chain diacetylene derivatives through photopolymerization in Langmuir–Blodgett films"
+"Cubic susceptibilities of polydiacetylene Langmuir-Blodgett films annealed before photopolymerization"
+"Molecular arrangements and polycondensation of long-chain esters of amino acids containing an aromatic ring in Langmuir-Blodgett films"
+"Synthesis of<i>L</i>-Lysine and<i>L</i>-Glutamic Acid Derivatives with Long Alkyl Chains and Polycondensation of Langmuir-Blodgett Films"
+"Molecular arrangement and polymerizability of <i>n</i>‐alkyl acrylates in langmuir‐blodgett films"
+"Preparation and properties of polymer Langmuir-Blodgett films with cyclobutane rings"
+"Photo-and thermo-chromism in vacuum-deposited polydiacetylene films"
+"Electron-energy-loss spectroscopy of polydiacetylenes"
+"Formation of the Newly Greenish Organized Molecular Film of Long-Chain Diynoic Acid Derivatives by Photopolymerization and Its Structural Study Using Near-Edge X-ray Absorption Fine Structure (NEXAFS) Spectroscopy"
+"Photo‐reversible Reaction in Polymer Langmuir‐Blodgett Films"
+"Excess Free Energies of Interaction between 10,12-Pentacosadiynoic Acid (PDA) and Its Mannoside Derivative (MPDA). A Mixed-Monolayer Study"
+"Influence of Compression Process on Optical Properties of PDA Langmuir-Blodgett Films"
+"XANES and UPS studies of the UV photopolymerization of a diacetylene long chain compound in oriented evaporated films"
+"UPS and XANES Studies of Photopolymerization of"
+"Formation of Flat, Homogeneous Surfaces of Organized Molecular Films of Three-Armed Polymerizable Amphiphiles with Metal-Scavenging Properties"
+#edges nonweighted undirected
+0 6
+0 9
+0 2
+0 3
+0 22
+0 4
+2 6
+2 5
+1 2
+3 6
+3 9
+2 3
+4 22
+1 5
+5 7
+1 7
+2 7
+6 9
+9 23
+9 22
+6 11
+9 11
+2 11
+11 22
+12 24
+12 22
+2 13
+7 13
+5 14
+1 14
+2 14
+7 14
+6 15
+5 15
+1 15
+15 29
+9 15
+15 24
+15 22
+6 16
+5 16
+1 16
+9 16
+16 22
+8 17
+2 17
+2 18
+7 18
+5 19
+1 19
+10 20
+1 21
+6 24
+5 24
+1 24
+24 29
+9 24
+2 24
+22 24
+1 25
+8 26
+7 27
+6 28
+23 28
+22 28
+6 29
+9 29
+28 29
+22 29
+5 30
+1 30
+2 30
+10 30
+#v "ClusterIndex" n
+9.0
+9.0
+9.0
+9.0
+9.0
+9.0
+9.0
+9.0
+9.0
+9.0
+9.0
+9.0
+9.0
+9.0
+9.0
+9.0
+9.0
+9.0
+9.0
+9.0
+9.0
+9.0
+9.0
+9.0
+9.0
+9.0
+9.0
+9.0
+9.0
+9.0
+9.0
+#v "ClusterName" s
+"J - photopolymerization, molecular arrangement, derivative, polymerization, absorption, long-chain diacetylene, polycondensation, polydiacetylene lan..."
+"J - photopolymerization, molecular arrangement, derivative, polymerization, absorption, long-chain diacetylene, polycondensation, polydiacetylene lan..."
+"J - photopolymerization, molecular arrangement, derivative, polymerization, absorption, long-chain diacetylene, polycondensation, polydiacetylene lan..."
+"J - photopolymerization, molecular arrangement, derivative, polymerization, absorption, long-chain diacetylene, polycondensation, polydiacetylene lan..."
+"J - photopolymerization, molecular arrangement, derivative, polymerization, absorption, long-chain diacetylene, polycondensation, polydiacetylene lan..."
+"J - photopolymerization, molecular arrangement, derivative, polymerization, absorption, long-chain diacetylene, polycondensation, polydiacetylene lan..."
+"J - photopolymerization, molecular arrangement, derivative, polymerization, absorption, long-chain diacetylene, polycondensation, polydiacetylene lan..."
+"J - photopolymerization, molecular arrangement, derivative, polymerization, absorption, long-chain diacetylene, polycondensation, polydiacetylene lan..."
+"J - photopolymerization, molecular arrangement, derivative, polymerization, absorption, long-chain diacetylene, polycondensation, polydiacetylene lan..."
+"J - photopolymerization, molecular arrangement, derivative, polymerization, absorption, long-chain diacetylene, polycondensation, polydiacetylene lan..."
+"J - photopolymerization, molecular arrangement, derivative, polymerization, absorption, long-chain diacetylene, polycondensation, polydiacetylene lan..."
+"J - photopolymerization, molecular arrangement, derivative, polymerization, absorption, long-chain diacetylene, polycondensation, polydiacetylene lan..."
+"J - photopolymerization, molecular arrangement, derivative, polymerization, absorption, long-chain diacetylene, polycondensation, polydiacetylene lan..."
+"J - photopolymerization, molecular arrangement, derivative, polymerization, absorption, long-chain diacetylene, polycondensation, polydiacetylene lan..."
+"J - photopolymerization, molecular arrangement, derivative, polymerization, absorption, long-chain diacetylene, polycondensation, polydiacetylene lan..."
+"J - photopolymerization, molecular arrangement, derivative, polymerization, absorption, long-chain diacetylene, polycondensation, polydiacetylene lan..."
+"J - photopolymerization, molecular arrangement, derivative, polymerization, absorption, long-chain diacetylene, polycondensation, polydiacetylene lan..."
+"J - photopolymerization, molecular arrangement, derivative, polymerization, absorption, long-chain diacetylene, polycondensation, polydiacetylene lan..."
+"J - photopolymerization, molecular arrangement, derivative, polymerization, absorption, long-chain diacetylene, polycondensation, polydiacetylene lan..."
+"J - photopolymerization, molecular arrangement, derivative, polymerization, absorption, long-chain diacetylene, polycondensation, polydiacetylene lan..."
+"J - photopolymerization, molecular arrangement, derivative, polymerization, absorption, long-chain diacetylene, polycondensation, polydiacetylene lan..."
+"J - photopolymerization, molecular arrangement, derivative, polymerization, absorption, long-chain diacetylene, polycondensation, polydiacetylene lan..."
+"J - photopolymerization, molecular arrangement, derivative, polymerization, absorption, long-chain diacetylene, polycondensation, polydiacetylene lan..."
+"J - photopolymerization, molecular arrangement, derivative, polymerization, absorption, long-chain diacetylene, polycondensation, polydiacetylene lan..."
+"J - photopolymerization, molecular arrangement, derivative, polymerization, absorption, long-chain diacetylene, polycondensation, polydiacetylene lan..."
+"J - photopolymerization, molecular arrangement, derivative, polymerization, absorption, long-chain diacetylene, polycondensation, polydiacetylene lan..."
+"J - photopolymerization, molecular arrangement, derivative, polymerization, absorption, long-chain diacetylene, polycondensation, polydiacetylene lan..."
+"J - photopolymerization, molecular arrangement, derivative, polymerization, absorption, long-chain diacetylene, polycondensation, polydiacetylene lan..."
+"J - photopolymerization, molecular arrangement, derivative, polymerization, absorption, long-chain diacetylene, polycondensation, polydiacetylene lan..."
+"J - photopolymerization, molecular arrangement, derivative, polymerization, absorption, long-chain diacetylene, polycondensation, polydiacetylene lan..."
+"J - photopolymerization, molecular arrangement, derivative, polymerization, absorption, long-chain diacetylene, polycondensation, polydiacetylene lan..."
+#v "abstract" s
+"The thermochromic phase-transition behavior of polydiacetylene (PDA) Langmuir−Blodgett (LB) films in the blue form and the bluish-green one was investigated from the viewpoint of the molecular lateral packings evaluated by the electron diffraction (ED) analysis. The PDA blue and bluish-green forms exhibit absorption peaks at the wavelengths 640 and 704 nm in the visible absorption spectrum, respectively. At an elevated temperature, the PDA LB films in both forms were converted into the red form with the absorption peak at the wavelength 540 nm. The chromatic phase transition of the PDA LB films was accompanied by the characteristic crystal phase transition in both cases. Further, the detailed structural analyses based on the ED measurement, the Fourier transform infrared external reflection spectrum, small-angle X-ray scattering, and X-ray photoelectron spectrum measurements revealed that the difference in the chromatic phase of the PDA LB film could be explained by the difference in the exciton energy level being strongly dependent on both the crystal symmetry and the resonance backbone structure."
+"Polycondensation of long-chain esters of α-amino acids and γ-ray-initiated polymerization of long-chain alkyl acrylate were investigated in Langmuir-Blodgett films, in order to clarify the effect of molecular arrangement on the reaction rates and the structure of the products. Multilayers of the long-chain monomers were built up on CaF2 plates and the polymerization processes were followed by monitoring intensity changes in characteristic bands in the IR spectra. It was found that a regular arrangement with some rotational freedom of the monomer molecules in the layered structure accelerates markedly the polymerization reactions. Mechanisms for two-dimensional polymerization together with the conformations or configurations of the resultant macromolecules are also discussed."
+"Polymerization of amphiphilic monomer Langmuir-Blodgett (LB) films, such as long-chain derivatives of α-amino acids and diynoic, trienoic and acrylic acids, was studied. Multilayers of these monomers were prepared on CaF2 or quartz plates by the LB method under various conditions, and polymerization processes were followed by IR and UV spectroscopy. The polycondensation of dioctadecyl-L- glutamate proceeded easily in LB films at ordinary temperatures below the melting point without any initiation. All-trans- and 9-cis-9,11,13-octadecatrienoic acids polymerized very rapidly in LB films on UV irradiation. Photopolymerization in LB films of 10,12-tricosadiynoic acid was influenced by the deposition modes and annealing, and that of octadecyl acrylate was accelerated by the addition of the long- chain vinyl ether. In any case, polymerization reactions are markedly enhanced by a well-controlled arrangement of the monomer molecules in the LB films."
+"The formation processes of polydiacetylene (PDA) Langmuir−Blodgett (LB) films in the blue and the bluish-green forms were investigated from the viewpoint of the molecular lateral packings evaluated by electron diffraction (ED) analysis. The PDA blue and bluish-green forms exhibit absorption peaks at 640 and 704 nm in the visible absorption spectrum, respectively. During the formation process of the PDA blue form, the two-dimensional unit cell of the monomeric LB film shrunk due to the covalent bond formation among the molecules. On the other hand, during the formation process of the PDA bluish-green form, there was no change in the molecular packings. Also, the ED analysis revealed the difference in the repeating unit distances of main chains between both forms, implying that both forms had distinct resonance backbone structures. It was concluded from comparison of the ED analysis and the molecular mechanics calculation that the bluish-green form was composed of the butatrienic type main chains rather than the acetylenic ones corresponding to the resonance backbone structure of the blue form."
+"Molecular vibration spectra were measured on Langmuir-Blodgett films of polydiacetylene, PDA-(12, 8), by the grazing-incidence reflection method. Structural disorders in the side-group conformation were found to occur at photo-induced phase-transition in the polymer backbone structure."
+"For the purpose of elucidating the effect of molecular arrangement on the reaction rate and the structure of the resulting polymers, two types of polymerization, i.e. polycondensation of long-chain esters of α-amino acids and photopolymerization of long-chain dienoic acid, were investigated in Langmuir-Blodgett (LB) films. Monolayer assemblies with various modes of packing or arrangement of the monomer molecules were built up and the polymerization processes were followed by monitoring the intensity changes of characteristics bands in the IR and UV spectra. It was found that polymerization reactions of both condensation and addition are markedly accelerated when the monomer molecules are organized in LB films. Furthermore, it is suggested that poly-amino acids or poly-dienoic acid with different conformations or configurations can be obtained by controlling the molecular arrangement with the LB technique."
+""
+"The effect of molecular orientation on the polymerization of various amphiphilic monomers in Langmuir-Blodgett (LB) films was studied. Multilayers of amphiphilic monomers were deposited on CaF2 or quartz plates and polymerization processes were followed by IR and UV spectroscopies. The polycondensation of octadecyl-L-lysine ester, dioctadecyl-L-glutamate and their mixtures proceeded easily in LB films at ordinary temperatures without initiator. Photopolymerization of tricosa-10,12-diynoic acid in LB films was remarkably influenced by conditions of monolayer formation and annealing of the LB films. Photopolymerization of vinyl stearate was accelerated by addition of octadecyl acrylate. Polymerization reactions of any type are markedly enhanced and the structures of the resultant polymers can be controlled through the molecular orientation and arrangement of the monomers in the LB films."
+"Absorption properties and structures are investigated as a function of pre-annealing temperature for PDA LB films. Absorption spectra of PDA LB films without pre-annealing have main peaks at 640 nm, while the pre-annealed 10-8 PDA LB films have new absorption peaks at 704 nm, i.e. a new blue phase. X-Ray diffraction measurements show that the pre-annealed films have extremely ordered layer structures. However, main peaks are observed at 640 nm for the pre-annealed 14-8 PDA LB films and the peaks only decrease with pre-annealing, because the layer spacing increases with pre-annealing and the polymerization is disturbed. Properties to the 10-8 PDA LB films depend upon the deposition temperature. The films, deposited at 20 °C and at 13 °C, have similar properties to the 10-8 PDA LB films and the 14-8 PDA LB films, respectively. The films having 704 nm peaks exhibit strong reversible color phase transitions between the new blue phase and the red phase. Pre-annealing is thought to be an important technique for controlling and improving characteristics of LB films."
+"The UV photopolymerization of cadmium salt Langmuir-Blodgett (LB) films of a diacetylene long-chain compound tricosa-10, 12-diynoic acid was studied with UV photoelectron spectroscopy (UPS) and X-ray absorption near-edge structure (XANES), and the results are compared with those for evaporated films of the same compound in free acid form. The UPS spectra showed a lowering of the ionization threshold energy from 6.7 eV (monomer) to 5.1 eV (polymer in both blue and red forms) owing to the formation of a delocalized π band, which is similar to the results for evaporated films. The XANES spectra indicate that polymerization does not proceed regularly in the topmost surface layer of the LB films probed by XANES, possibly owing to disordered surface structure. This is in contrast to the results for evaporated films, where a clear change of XANES spectra is observed owing to the formation of a delocalized π∗ band."
+"Several kinds of mixed and alternate Langmuir-Blodgett (LB) films of esters and salts of long-chain fatty acids have been prepared. Molecular arrangements in these LB films have been estimated from their X-ray Weissenberg photographs. Structural control of some functional molecules in LB films can be achieved by mixing with matrix simple long-chain compounds. A criterion for the use of long-chain esters as matrix materials in fabricating functional monolayer assemblies has been designated in this study."
+"Abstract Molecular packings of polydiacetylene (PDA) Langmuir-Blodgett (LB) film in various chromatic phases such as blue, red and bluish-green forms have been clarified by the electron diffraction analysis for the first time. Spectroscopic properties - molecular packings relationships for the chromatic phases of PDA LB film indicate that the chromatic phase of PDA is strongly dependent on its molecular packing in the crystal phase."
+"We have succeeded in nanoscale polymerization of Langmuir−Blodgett (LB) films of cadmium 10,12-pentacosadiynoate (CdPA) by near-field two-photon excitation with femtosecond pulses. The LB films of CdPA were excited locally through an aperture of a near-field optical fiber probe by femtosecond-pulsed near-infrared radiation. The formation of polydiacetylene (PDA) films has been confirmed by two-photon induced and ordinary (linear) luminescence and Raman measurements by using a scanning near-field optical microscope. The polymerization of CdPA to PDA was induced by the femtosecond-pulsed near-infrared radiation but not by continuous wave radiation. This result confirms that the polymerization was not induced by heat arising from the near-field irradiation. The number of photons involved in the polymerization reaction was estimated to be 2 from the dependence of photoluminescence intensities of PDA on the power of incident light for polymerization."
+"The molecular arrangements and polycondensation of octadecyl esters of phenylalanine (L-PheC18), tyrosine (L-TyrC18) and tryptophan (L-TrpC18) in Langmuir-Blodgett (LB) films were studied. These LB films adopt good layer structures: the long hydrocarbon chains stand nearly vertical to the film plane; the benzene ring of L-PheC18 lies almost flat; and the phenol group of L-TyrC18 and the indole ring of L-TrpC18 are oriented fairly perpendicular to the film plane. It has been found that the polycondensation is accelerated by regular arrangements of monomer molecules in the LB films, where functional groups can be concentrated in the two-dimensional plane and situated more effectively for the reaction than in the bulk solids or the molten states. The reaction rates in the LB film decreased in the order L-TyrC18 >L-TrpC18 >L-PheC18, which can be ascribed to their distinct steric hindrances caused by the different orientations and sizes of the aromatic rings. Polycondensation in LB films can be improved by mixing them with octadecyl esters of alanine to reduce steric hindrances. The resultant polypeptides take mainly the α-helix conformation."
+"Photopolymerization in the LB films of a newly synthesized ω-tricosenoyl derivative of β-cyclodextrin (vinyl-β-CD) and mixtures with ω-tricosenoic acid have been studied by monitoring the change in IR spectra. Vinyl-β-CD formed a stable monolayer with the closest hexagonal packing of cyclodextrin rings parallel to and long alkyl chains perpendicular to the film plane. The polymerization in the LB films was influenced by the mode of deposition and the composition of the mixtures. It has been found that the intermolecular polymerization of vinyl-β-CD can be promoted through the interposition of ω-tricosenoic acid in the blank space between the hexagonally packed molecules of the cyclodextrin derivative. Solvent resistivity of the LB films containing cyclodextrin with specific functions of the cavity was improved by the polymerization."
+"Alternating facet/terrace nanostructures were fabricated on a SiO2 surface by step-bunching and thermal oxidation of a vicinal Si(111) substrate, and their influence upon the polymerization direction of a long-chain diacetylene derivative monolayer film was investigated by angle-dependent polarized near-edge X-ray absorption fine structure (NEXAFS) spectroscopy. It was found that the peak intensity of the C 1s−π* transition was stronger when the electric vector plane of the incident X-ray was parallel to the direction of the periodic facet/terrace structures rather than perpendicular to them. On the contrary, a polymer film fabricated on a flat SiO2 surface showed no in-plane anisotropy of the peak intensity. These results indicate that the diacetylene groups in the diacetylene derivative monolayer are preferentially photopolymerized in the direction not across but along the periodic one-dimensional structures on the step-bunched and thermally oxidized SiO2/Si(111) surface."
+"The NO 2 sensor using merocyanine-doped Langmuir-Blodgett (LB) films, the mechanism of which is based on a change in surface conductivity due to the attachment of electrophilic gas molecules, was investigated. Its sensitivity depended on the number of LB layers. The sensor with 5 layers was most sensitive and had a very fast response time of less than 5 s, good reproducibility and maximum sensitivity in the low NO 2 concentration range of 0 to 10 ppm."
+"The irradiation effects (sputtering and damage) induced by keV ion in LangmuirBlodgett f i lms of different thickness a r e studied for different incidence angles and fo r doses up t o 3 x 1013 ions.cm-2. The fi lms composed of different superposed monolayers allow to study, in SIMS, t h e evolution of t h e molecular ion intensity as a function of film depth. The volume excited by the primary ion is characterized a t small incidence angle by a small radial extension with respect t o i t s depth extension."
+"Tribological properties of monomolecular Langmuir–Blodgett (LB) films of octacosanoic acid (OCA) fabricated on silicon substrates by horizontal precipitation (HP) method are studied. The wear resistance of OCA coatings was studied and compared with the stability of both octadecanoic acid (OA) and octadecyltrichlorosilane (OTS) monolayers. It was found that OCA films increase the wear stability of silicon surfaces by 7.5 and 27 times as compared to OA and OTS monolayers, and reduce the coefficient of friction of an initial surface from 0.25 to 0.07. Monomolecular OCA films can be used for the protection of silicon micro-electro-mechanical systems from wear and friction."
+"We present surface-plasmon-resonance (SPR) investigations on Langmuir-Blodgett films of two different types of donor-acceptor substituted polyenes. SPR spectroscopy in Kretschmann configuration enables determination of thickness and dielectric constants of films down to the monolayer range. The linear electro-optic susceptibilities χ(2)(−ω;ω,0) of mono- and multi-layer films are determined as dielectric constant changes Δε, which are seen as field-induced modulations in the mode-coupling condition in prism-coupled SPR. Knowing the magnitude and sign of χ(2)(−ω;ω,0) and the orientation angle of the molecules in the film, obtained from FT-IR spectroscopy, we were able to determine the second hyperpolarisability β(−ω;ω,0). In films of 7-N,N-dioctylaminophenyl-7,8′-diapocarotene-8′al, β is found to have a very high value of 7.7 × 10−47 cm3/V2. The dependence of β on the film deposition type is discussed."
+""
+""
+"Past evidence shows that the secondary structure of photosynthetic Reaction Centres is preserved in Langmuir-Blodgett films at temperatures of up to 473 K, and that the corresponding structure in solution is lost at 328 K. This evidence is correlated with findings in this study that the functional activity of Reaction Centres is preserved up to 368 K in Langmuir-Blodgett films but only up to 308 K in dried random smears (non-oriented films). Interestingly, a similar behaviour is displayed by anti-insulin antibodies in Langmuir-Blodgett films. The role of dehydration in the preservation of secondary structure is investigated using the latter protein, and, upon comparison with the role of close packing is found to be a secondary effect. The preservation of antibody functional properties is monitored up to 423 K and unique catalytic properties appear after thermal treatment. This phenomenon is studied by making surface potential measurements and is found to be caused by the increased anisotropy of the antibody layer after thermal treatment. This increased anisotropy, related to the enhanced order of the film due to thermal treatment followed by slow cooling, is confirmed by X-ray analysis. The above evidence is collected in a unitary picture that attributes the cause of protein thermal stabilization to the close packing induced by Langmuir-Blodgett film formation; the decreased conformational entropy is implicated as the initial condition that allows protein recrystallization after thermal treatment."
+"The change of absorption spectra by UV light irradiation (photo-chromism) and by thermal annealing (thermo-chromism) have been investigated on vacuum-deposited polydiacetylene (12-8 PDA) films. The results are compared with those of the Langmuir-Blodgett films of the same 12-8 PDA. It is suggested that the blue-to-red colour conversion of these films is associated with a isometric transformation of the polymer backbone structures. The films also show a remarkable color change by a visible laser-beam irradiation. A feasibility of utilizing this effect as photo-chromic recording is suggested."
+"We report electrical characterization of memory elements consisting of a p-type silicon field-effect transistor incorporating a ferroelectric polymer Langmuir–Blodgett film into the gate insulator to produce bistability through polarization hysteresis. The thin gate insulator, consisting of a 10 nm thick silicon oxide layer and a 35 nm thick ferroelectric polymer film, enabled bistable operation at 4 V. Device hysteresis as a function of gate voltage was evident both in the device capacitance, which was measured between the gate and drain, and in the source-drain conductance. The ferroelectric film polarization was not saturated, even up to operating voltages of 10 V. This is likely the reason for the short state retention of less than 10 s at room temperature. The hysteresis vanished as the sample was heated toward the ferroelectric-paraelectric phase transition temperature, showing that the bistability was due to ferroelectric polarization reversal."
+""
+""
+"Abstract In this article we describe the preparation of poly[2,3,9,10,16,17,23,24‐octakis(dodecyloxycarbonyl)phthalocyaninatogermoxane] by thermal polycondensation of 2,3,9,10,16,17,23,24‐octakis(dodecyloxycarbonyl)phthalocyaninatogermanium dihydroxide, and its characterization. The average molar mass of the resulting polymer was determined. High molar masses are assessible, e.g., M̄ w = 360000 g/mol, M̄ n = 140000 g/mol, at moderate temperature for the polycondensation (200°C). The polymer shows a liquid‐crystalline phase in an extremely large temperature range. Furthermore, Langmuir‐Blodgett films (LB films) of the polymer and of the monomer were prepared and characterized. In LB films the phthalocyanine rings are preferentially oriented normal to the dipping direction."
+"Conductivities of Langmuir-Blodgett(LB) films of tetrabenzylthio- tetra-thiafulvalence-Ni(dmit)_2/stearic acid (SA)were described. This charge transfer complex was transferred with SA onto a glass plate coated with A1 electrodes. The relation of conductivities of LB films with molar ratio of SA was studied. The conductivities of LB films of TBT-TTF-Ni(dmit)_2/SA were measured under undoped and I_2 doped states. The maximum conductivity () of LB film was 40s/cm."
+"Ion selective properties of poly(3-pentylmethoxythiophene) Langmuir-Blodgett film modified carbon-fiber microelectrode are described. The study of the electrode behavior indicates that important features occur if two electrochemical methods, one of them being kinetics sensitive, are used. While in case of the typical steady-state voltammetry the electrode remains sensitive to both the cations and anions, the kinetics-sensitive properties of voltcoulometry based on the second-order filtering scheme disable the observation of anions. As a model system a mixture of copper and dopamine ions is used."
+"Polarized absorption and fluorescence spectra as well as lifetime of fluorescence (τ) of the mixtures of chlorophyll a (Chl a) and chlorophyll b (Chl b) in anisotropic polyvinyl alcohol (PVA) films were measured. Two mixtures with various concentrations ratios of Chl a to Chl b were investigated. For comparison, the fluorescence excitation and emission spectra of Chl b + phytol mixture in Langmuir—Blodgett films were also measured. At high Chl a and low Chl b concentrations (MI) the following three forms of Chl a aggregates occurred: 'dry' Chl a (aggregated with polymer) with a fluorescence maximum at 676 nm (F676), hydrated dimer (Chl a 2H2O)2 or (Chl a H2O)2 (F700–705 nm), and oligomers of hydrated dimers (F750–770 nm). Chl b in the same matrix also occurs in at least three forms: 'dry' (F653 nm), 'wet' - hydrated aggregates (F662 nm) and aggregated forms with the fluorescence at 710–720 nm and/or 730–740 nm regions. The orientation of various chlorophyll forms in the PVA matrix is different. The efficiency of excitation energy transfer from Chl b to various aggregates of Chl a is different. The yield of energy transfer from Chl b to Chl a oligomers is high. Fluorescence decay of various aggregates is different and the experimental decay can be analysed always on two or three exponential components. Results are discussed on the basis of previous data concerning the monolayers of Chl a with phytol and literature data concerning aggregation of chlorophylls in various model systems. In the spectra of chlorophyll in several model systems, as follows from the literature, it is possible to distinguish the contributions from the three or even more aggregated forms of pigment similar to those reported by us. Some similarities between aggregated forms or chlorophylls and pigment forms observed in organisms are noted. In polymer films, aggregated forms of pigments are stable and oriented; therefore, their properties and the condition of their formation can be established."
+#v "title" s
+"Chromatic Phase of Polydiacetylene Langmuir−Blodgett Film"
+"Effects of molecular arrangement on polymerization reactions in Langmuir-Blodgett films"
+"Polymerizabilities of amphiphilic monomers with controlled arrangements in Langmuir-Blodgett films"
+"Molecular Packings−Photopolymerization Behavior Relationship of Diacetylene Langmuir−Blodgett Films"
+"Photo-induced structural disorder in Langmuir-Blodgett films of polydiacetylenes"
+"Molecular arrangement and polymerizability of amino acid derivatives and dienoic acid in Langmuir-Blodgett films"
+"UV photoelectron spectroscopic study of the photopolymerization of long-chain diacetylene monocarboxylic acid in Langmuir—Blodgett films"
+"Control of polymerization reactions and polymer structures through the molecular orientation of amphiphilic monomers in Langmuir-Blodgett films"
+"Absorption properties and structure changes caused by pre-annealing in polydiacetylene Langmuir-Blodgett films"
+"Photopolymerization of long-chain diacetylene monocarboxylic acid in Langmuir-Blodgett films studied by UV photoelectron spectroscopy and X-ray absorption near-edge structure"
+"Structural control and characterization in mixed and alternate Langmuir-Blodgett films of simple long-chain compounds"
+"Chromatic Phase and Molecular Packings of Polydiacetylene Langmuir-Blodgett Films"
+"Nanoscale Two-Photon Induced Polymerization of Diacetylene Langmuir−Blodgett Film by Near-Field Photoirradiation"
+"Molecular arrangement and polycondensation of octadecyl esters of aromatic amino acids in Langmuir-Blodgett films"
+"Photopolymerization of a ω-tricosenoyl derivative of β-cyclodextrin in Langmuir-Blodgett films"
+"Anisotropic Polymerization of a Long-Chain Diacetylene Derivative Langmuir−Blodgett Film on a Step-Bunched SiO<sub>2</sub>/Si Surface"
+"Changes in the near‐edge X‐ray absorption fine structure spectra of long‐chain diacetylene derivatives through photopolymerization in Langmuir–Blodgett films"
+"Cubic susceptibilities of polydiacetylene Langmuir-Blodgett films annealed before photopolymerization"
+"Molecular arrangements and polycondensation of long-chain esters of amino acids containing an aromatic ring in Langmuir-Blodgett films"
+"Synthesis of<i>L</i>-Lysine and<i>L</i>-Glutamic Acid Derivatives with Long Alkyl Chains and Polycondensation of Langmuir-Blodgett Films"
+"Molecular arrangement and polymerizability of <i>n</i>‐alkyl acrylates in langmuir‐blodgett films"
+"Preparation and properties of polymer Langmuir-Blodgett films with cyclobutane rings"
+"Photo-and thermo-chromism in vacuum-deposited polydiacetylene films"
+"Electron-energy-loss spectroscopy of polydiacetylenes"
+"Formation of the Newly Greenish Organized Molecular Film of Long-Chain Diynoic Acid Derivatives by Photopolymerization and Its Structural Study Using Near-Edge X-ray Absorption Fine Structure (NEXAFS) Spectroscopy"
+"Photo‐reversible Reaction in Polymer Langmuir‐Blodgett Films"
+"Excess Free Energies of Interaction between 10,12-Pentacosadiynoic Acid (PDA) and Its Mannoside Derivative (MPDA). A Mixed-Monolayer Study"
+"Influence of Compression Process on Optical Properties of PDA Langmuir-Blodgett Films"
+"XANES and UPS studies of the UV photopolymerization of a diacetylene long chain compound in oriented evaporated films"
+"UPS and XANES Studies of Photopolymerization of"
+"Formation of Flat, Homogeneous Surfaces of Organized Molecular Films of Three-Armed Polymerizable Amphiphiles with Metal-Scavenging Properties"
+#v "wos_id" s
+"https://openalex.org/W2013296610"
+"https://openalex.org/W2002247800"
+"https://openalex.org/W2020728345"
+"https://openalex.org/W2041347232"
+"https://openalex.org/W2080387690"
+"https://openalex.org/W2000516871"
+"https://openalex.org/W1988389977"
+"https://openalex.org/W2055846479"
+"https://openalex.org/W1963602611"
+"https://openalex.org/W2017189038"
+"https://openalex.org/W2072397854"
+"https://openalex.org/W1970844005"
+"https://openalex.org/W2320421454"
+"https://openalex.org/W1977509397"
+"https://openalex.org/W2055479605"
+"https://openalex.org/W2074031270"
+"https://openalex.org/W2139040169"
+"https://openalex.org/W2031221930"
+"https://openalex.org/W2095515321"
+"https://openalex.org/W2084998288"
+"https://openalex.org/W1997246189"
+"https://openalex.org/W2030530079"
+"https://openalex.org/W2054355635"
+"https://openalex.org/W2031075615"
+"https://openalex.org/W2034975672"
+"https://openalex.org/W2014097965"
+"https://openalex.org/W1985677100"
+"https://openalex.org/W2321111019"
+"https://openalex.org/W2022315620"
+"https://openalex.org/W2010712483"
+"https://openalex.org/W2312682492"
